@@ -1,0 +1,720 @@
+INFO 2025-05-16 23:38:08,487 autoreload 18476 4684 Watching for file changes with StatReloader
+INFO 2025-05-16 23:38:37,417 autoreload 18476 4684 C:\Progra\Trabajos _UCC_Ing.Software\Tercer semestre\Sistemas distribuidos\TrabajoFinalDos\backend_barberia\backend_barberia\celery.py changed, reloading.
+INFO 2025-05-16 23:38:38,413 autoreload 10416 13112 Watching for file changes with StatReloader
+INFO 2025-05-16 23:38:51,618 autoreload 10416 13112 C:\Progra\Trabajos _UCC_Ing.Software\Tercer semestre\Sistemas distribuidos\TrabajoFinalDos\backend_barberia\backend_barberia\__init__.py changed, reloading.
+INFO 2025-05-16 23:38:52,542 autoreload 3068 14668 Watching for file changes with StatReloader
+INFO 2025-05-16 23:39:11,222 autoreload 12120 9048 Watching for file changes with StatReloader
+INFO 2025-05-16 23:55:58,855 autoreload 12120 9048 C:\Progra\Trabajos _UCC_Ing.Software\Tercer semestre\Sistemas distribuidos\TrabajoFinalDos\backend_barberia\backend_barberia\celery.py changed, reloading.
+INFO 2025-05-16 23:56:00,284 autoreload 21380 25532 Watching for file changes with StatReloader
+INFO 2025-05-17 00:02:09,404 tasks 22000 9012 All 0 nodes are alive
+INFO 2025-05-17 00:02:33,249 tasks 22000 9012 All 0 nodes are alive
+INFO 2025-05-17 00:03:03,247 tasks 22000 9012 All 0 nodes are alive
+INFO 2025-05-17 00:03:33,246 tasks 22000 9012 All 0 nodes are alive
+INFO 2025-05-17 00:04:03,246 tasks 22000 9012 All 0 nodes are alive
+INFO 2025-05-17 00:04:33,248 tasks 22000 9012 All 0 nodes are alive
+INFO 2025-05-17 00:05:03,249 tasks 22000 9012 All 0 nodes are alive
+INFO 2025-05-17 00:05:33,248 tasks 22000 9012 All 0 nodes are alive
+INFO 2025-05-17 00:06:03,250 tasks 22000 9012 All 0 nodes are alive
+WARNING 2025-05-17 00:06:35,485 log 21380 27236 Unauthorized: /api/appointments/
+WARNING 2025-05-17 00:06:35,490 basehttp 21380 27236 "GET /api/appointments/ HTTP/1.1" 401 58
+INFO 2025-05-17 00:06:35,503 tasks 22000 9012 Service API de Citas status changed to non-operational
+WARNING 2025-05-17 00:06:37,578 log 21380 27372 Unauthorized: /api/barbers/
+WARNING 2025-05-17 00:06:37,580 basehttp 21380 27372 "GET /api/barbers/ HTTP/1.1" 401 58
+INFO 2025-05-17 00:06:37,583 tasks 22000 9012 Service API de Barberos status changed to non-operational
+INFO 2025-05-17 00:06:39,753 basehttp 21380 11568 "GET /api/services/ HTTP/1.1" 200 187
+INFO 2025-05-17 00:06:39,760 tasks 22000 9012 All 0 nodes are alive
+INFO 2025-05-17 00:07:03,249 tasks 22000 9012 All 0 nodes are alive
+INFO 2025-05-17 00:07:33,251 tasks 22000 9012 All 0 nodes are alive
+INFO 2025-05-17 00:08:03,251 tasks 22000 9012 All 0 nodes are alive
+INFO 2025-05-17 00:08:26,000 autoreload 22340 19216 Watching for file changes with StatReloader
+INFO 2025-05-17 00:08:33,277 tasks 22000 9012 All 0 nodes are alive
+INFO 2025-05-17 00:09:03,275 tasks 22000 9012 All 0 nodes are alive
+INFO 2025-05-17 00:09:33,274 tasks 22000 9012 All 0 nodes are alive
+INFO 2025-05-17 00:10:03,277 tasks 22000 9012 All 0 nodes are alive
+INFO 2025-05-17 00:10:33,277 tasks 22000 9012 All 0 nodes are alive
+INFO 2025-05-17 00:11:03,276 tasks 22000 9012 All 0 nodes are alive
+WARNING 2025-05-17 00:11:35,350 log 22340 13416 Unauthorized: /api/appointments/
+WARNING 2025-05-17 00:11:35,351 basehttp 22340 13416 "GET /api/appointments/ HTTP/1.1" 401 58
+WARNING 2025-05-17 00:11:37,404 log 22340 18360 Unauthorized: /api/barbers/
+WARNING 2025-05-17 00:11:37,405 basehttp 22340 18360 "GET /api/barbers/ HTTP/1.1" 401 58
+INFO 2025-05-17 00:11:39,480 basehttp 22340 4136 "GET /api/services/ HTTP/1.1" 200 187
+INFO 2025-05-17 00:11:39,487 tasks 22000 9012 All 0 nodes are alive
+INFO 2025-05-17 00:12:03,284 tasks 22000 9012 All 0 nodes are alive
+INFO 2025-05-17 00:12:33,286 tasks 22000 9012 All 0 nodes are alive
+INFO 2025-05-17 00:13:03,291 tasks 22000 9012 All 0 nodes are alive
+INFO 2025-05-17 00:13:33,285 tasks 22000 9012 All 0 nodes are alive
+INFO 2025-05-17 00:14:03,285 tasks 22000 9012 All 0 nodes are alive
+INFO 2025-05-17 00:14:33,296 tasks 22000 9012 All 0 nodes are alive
+INFO 2025-05-17 00:15:03,300 tasks 22000 9012 All 1 nodes are alive
+INFO 2025-05-17 00:15:33,300 tasks 22000 9012 All 1 nodes are alive
+INFO 2025-05-17 00:16:03,300 tasks 22000 9012 All 1 nodes are alive
+WARNING 2025-05-17 00:16:35,369 log 22340 11140 Unauthorized: /api/appointments/
+WARNING 2025-05-17 00:16:35,372 basehttp 22340 11140 "GET /api/appointments/ HTTP/1.1" 401 58
+WARNING 2025-05-17 00:16:37,440 log 22340 3032 Unauthorized: /api/barbers/
+WARNING 2025-05-17 00:16:37,441 basehttp 22340 3032 "GET /api/barbers/ HTTP/1.1" 401 58
+INFO 2025-05-17 00:16:39,527 basehttp 22340 7592 "GET /api/services/ HTTP/1.1" 200 187
+INFO 2025-05-17 00:16:39,533 tasks 22000 9012 All 1 nodes are alive
+WARNING 2025-05-17 00:17:03,299 tasks 22000 9012 Node Servidor Local (127.0.0.1:8000) is down!
+WARNING 2025-05-17 00:17:03,329 tasks 22000 9012 Found 1 dead nodes out of 1 total nodes
+WARNING 2025-05-17 00:17:33,301 tasks 22000 9012 Node Servidor Local (127.0.0.1:8000) is down!
+WARNING 2025-05-17 00:17:33,304 tasks 22000 9012 Found 1 dead nodes out of 1 total nodes
+WARNING 2025-05-17 00:18:03,304 tasks 22000 9012 Node Servidor Local (127.0.0.1:8000) is down!
+WARNING 2025-05-17 00:18:03,306 tasks 22000 9012 Found 1 dead nodes out of 2 total nodes
+WARNING 2025-05-17 00:18:33,304 tasks 22000 9012 Node Servidor Local (127.0.0.1:8000) is down!
+WARNING 2025-05-17 00:18:33,308 tasks 22000 9012 Found 1 dead nodes out of 2 total nodes
+WARNING 2025-05-17 00:19:03,303 tasks 22000 9012 Node Servidor Local (127.0.0.1:8000) is down!
+WARNING 2025-05-17 00:19:03,305 tasks 22000 9012 Found 1 dead nodes out of 2 total nodes
+WARNING 2025-05-17 00:19:33,305 tasks 22000 9012 Node Servidor Local (127.0.0.1:8000) is down!
+WARNING 2025-05-17 00:19:33,307 tasks 22000 9012 Found 1 dead nodes out of 2 total nodes
+WARNING 2025-05-17 00:20:03,304 tasks 22000 9012 Node Servidor Local (127.0.0.1:8000) is down!
+WARNING 2025-05-17 00:20:03,305 tasks 22000 9012 Node Servidor de Base de Datos (192.168.1.10:5432) is down!
+WARNING 2025-05-17 00:20:03,308 tasks 22000 9012 Found 2 dead nodes out of 2 total nodes
+ERROR 2025-05-17 00:20:10,447 log 22340 18640 Internal Server Error: /api/monitoring/dashboard/
+Traceback (most recent call last):
+  File "C:\Users\Jose Mafla\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Jose Mafla\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Progra\Trabajos _UCC_Ing.Software\Tercer semestre\Sistemas distribuidos\TrabajoFinalDos\backend_barberia\monitoring\views.py", line 172, in dashboard
+    return render(request, 'monitoring/dashboard.html', context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Jose Mafla\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\shortcuts.py", line 25, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Jose Mafla\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Jose Mafla\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\template\loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: monitoring/dashboard.html
+ERROR 2025-05-17 00:20:10,454 basehttp 22340 18640 "GET /api/monitoring/dashboard/ HTTP/1.1" 500 90626
+WARNING 2025-05-17 00:20:33,305 tasks 22000 9012 Node Servidor Local (127.0.0.1:8000) is down!
+WARNING 2025-05-17 00:20:33,309 tasks 22000 9012 Node Servidor de Base de Datos (192.168.1.10:5432) is down!
+WARNING 2025-05-17 00:20:33,312 tasks 22000 9012 Found 2 dead nodes out of 2 total nodes
+WARNING 2025-05-17 00:21:03,319 tasks 22000 9012 Node Servidor Local (127.0.0.1:8000) is down!
+WARNING 2025-05-17 00:21:03,320 tasks 22000 9012 Node Servidor de Base de Datos (192.168.1.10:5432) is down!
+WARNING 2025-05-17 00:21:03,323 tasks 22000 9012 Found 2 dead nodes out of 2 total nodes
+WARNING 2025-05-17 00:21:35,333 log 22340 5928 Unauthorized: /api/appointments/
+WARNING 2025-05-17 00:21:35,334 basehttp 22340 5928 "GET /api/appointments/ HTTP/1.1" 401 58
+WARNING 2025-05-17 00:21:37,408 log 22340 6300 Unauthorized: /api/barbers/
+WARNING 2025-05-17 00:21:37,409 basehttp 22340 6300 "GET /api/barbers/ HTTP/1.1" 401 58
+INFO 2025-05-17 00:21:39,503 basehttp 22340 20356 "GET /api/services/ HTTP/1.1" 200 187
+WARNING 2025-05-17 00:21:39,510 tasks 22000 9012 Node Servidor Local (127.0.0.1:8000) is down!
+WARNING 2025-05-17 00:21:39,511 tasks 22000 9012 Node Servidor de Base de Datos (192.168.1.10:5432) is down!
+WARNING 2025-05-17 00:21:39,513 tasks 22000 9012 Found 2 dead nodes out of 2 total nodes
+WARNING 2025-05-17 00:22:03,321 tasks 22000 9012 Node Servidor Local (127.0.0.1:8000) is down!
+WARNING 2025-05-17 00:22:03,324 tasks 22000 9012 Node Servidor de Base de Datos (192.168.1.10:5432) is down!
+WARNING 2025-05-17 00:22:03,325 tasks 22000 9012 Found 2 dead nodes out of 2 total nodes
+WARNING 2025-05-17 00:22:33,323 tasks 22000 9012 Node Servidor Local (127.0.0.1:8000) is down!
+WARNING 2025-05-17 00:22:33,324 tasks 22000 9012 Node Servidor de Base de Datos (192.168.1.10:5432) is down!
+WARNING 2025-05-17 00:22:33,326 tasks 22000 9012 Found 2 dead nodes out of 2 total nodes
+WARNING 2025-05-17 00:23:03,321 tasks 22000 9012 Node Servidor Local (127.0.0.1:8000) is down!
+WARNING 2025-05-17 00:23:03,322 tasks 22000 9012 Node Servidor de Base de Datos (192.168.1.10:5432) is down!
+WARNING 2025-05-17 00:23:03,322 tasks 22000 9012 Found 2 dead nodes out of 2 total nodes
+WARNING 2025-05-17 00:23:33,321 tasks 22000 9012 Node Servidor Local (127.0.0.1:8000) is down!
+WARNING 2025-05-17 00:23:33,322 tasks 22000 9012 Node Servidor de Base de Datos (192.168.1.10:5432) is down!
+WARNING 2025-05-17 00:23:33,323 tasks 22000 9012 Found 2 dead nodes out of 2 total nodes
+WARNING 2025-05-17 00:24:03,340 tasks 22000 9012 Node Servidor Local (127.0.0.1:8000) is down!
+WARNING 2025-05-17 00:24:03,341 tasks 22000 9012 Node Servidor de Base de Datos (192.168.1.10:5432) is down!
+WARNING 2025-05-17 00:24:03,342 tasks 22000 9012 Found 2 dead nodes out of 2 total nodes
+WARNING 2025-05-17 00:24:33,340 tasks 22000 9012 Node Servidor Local (127.0.0.1:8000) is down!
+WARNING 2025-05-17 00:24:33,342 tasks 22000 9012 Node Servidor de Base de Datos (192.168.1.10:5432) is down!
+WARNING 2025-05-17 00:24:33,344 tasks 22000 9012 Found 2 dead nodes out of 2 total nodes
+WARNING 2025-05-17 00:25:03,341 tasks 22000 9012 Node Servidor Local (127.0.0.1:8000) is down!
+WARNING 2025-05-17 00:25:03,343 tasks 22000 9012 Node Servidor de Base de Datos (192.168.1.10:5432) is down!
+WARNING 2025-05-17 00:25:03,344 tasks 22000 9012 Found 2 dead nodes out of 2 total nodes
+WARNING 2025-05-17 00:25:20,199 tasks 11928 23024 Node Servidor Local (127.0.0.1:8000) is down!
+WARNING 2025-05-17 00:25:20,202 tasks 11928 23024 Node Servidor de Base de Datos (192.168.1.10:5432) is down!
+WARNING 2025-05-17 00:25:20,203 tasks 11928 23024 Found 2 dead nodes out of 2 total nodes
+WARNING 2025-05-17 00:25:33,341 tasks 22000 9012 Node Servidor Local (127.0.0.1:8000) is down!
+WARNING 2025-05-17 00:25:33,343 tasks 22000 9012 Node Servidor de Base de Datos (192.168.1.10:5432) is down!
+WARNING 2025-05-17 00:25:33,344 tasks 22000 9012 Found 2 dead nodes out of 2 total nodes
+WARNING 2025-05-17 00:26:03,342 tasks 22000 9012 Node Servidor Local (127.0.0.1:8000) is down!
+WARNING 2025-05-17 00:26:03,343 tasks 22000 9012 Node Servidor de Base de Datos (192.168.1.10:5432) is down!
+WARNING 2025-05-17 00:26:03,343 tasks 22000 9012 Found 2 dead nodes out of 2 total nodes
+WARNING 2025-05-17 00:26:35,338 log 22340 2216 Unauthorized: /api/appointments/
+WARNING 2025-05-17 00:26:35,340 basehttp 22340 2216 "GET /api/appointments/ HTTP/1.1" 401 58
+WARNING 2025-05-17 00:26:37,388 log 22340 22400 Unauthorized: /api/barbers/
+WARNING 2025-05-17 00:26:37,389 basehttp 22340 22400 "GET /api/barbers/ HTTP/1.1" 401 58
+INFO 2025-05-17 00:26:39,490 basehttp 22340 23988 "GET /api/services/ HTTP/1.1" 200 187
+WARNING 2025-05-17 00:26:39,500 tasks 22000 9012 Node Servidor Local (127.0.0.1:8000) is down!
+WARNING 2025-05-17 00:26:39,523 tasks 22000 9012 Node Servidor de Base de Datos (192.168.1.10:5432) is down!
+WARNING 2025-05-17 00:26:39,529 tasks 22000 9012 Found 2 dead nodes out of 2 total nodes
+INFO 2025-05-17 00:27:03,374 tasks 22000 9012 All 2 nodes are alive
+INFO 2025-05-17 00:27:33,373 tasks 22000 9012 All 2 nodes are alive
+WARNING 2025-05-17 00:28:03,373 tasks 22000 9012 Node Servidor de Base de Datos (192.168.1.10:5432) is down!
+WARNING 2025-05-17 00:28:03,376 tasks 22000 9012 Found 1 dead nodes out of 2 total nodes
+INFO 2025-05-17 11:13:27,810 autoreload 20032 17476 Watching for file changes with StatReloader
+WARNING 2025-05-17 11:13:32,048 log 20032 11212 Forbidden (CSRF cookie not set.): /monitoring/nodes/heartbeat/
+WARNING 2025-05-17 11:13:32,050 basehttp 20032 11212 "POST /monitoring/nodes/heartbeat/ HTTP/1.1" 403 2855
+WARNING 2025-05-17 11:13:34,459 log 20032 9484 Forbidden (CSRF cookie not set.): /monitoring/nodes/heartbeat/
+WARNING 2025-05-17 11:13:34,459 basehttp 20032 9484 "POST /monitoring/nodes/heartbeat/ HTTP/1.1" 403 2855
+WARNING 2025-05-17 11:13:35,356 log 20032 13952 Forbidden (CSRF cookie not set.): /monitoring/nodes/heartbeat/
+WARNING 2025-05-17 11:13:35,358 basehttp 20032 13952 "POST /monitoring/nodes/heartbeat/ HTTP/1.1" 403 2855
+WARNING 2025-05-17 11:13:35,652 log 20032 17352 Forbidden (CSRF cookie not set.): /monitoring/nodes/heartbeat/
+WARNING 2025-05-17 11:13:35,653 basehttp 20032 17352 "POST /monitoring/nodes/heartbeat/ HTTP/1.1" 403 2855
+WARNING 2025-05-17 11:13:38,991 log 20032 10268 Forbidden (CSRF cookie not set.): /monitoring/nodes/heartbeat/
+WARNING 2025-05-17 11:13:38,992 basehttp 20032 10268 "POST /monitoring/nodes/heartbeat/ HTTP/1.1" 403 2855
+WARNING 2025-05-17 11:13:49,157 log 20032 9292 Forbidden (CSRF cookie not set.): /monitoring/nodes/heartbeat/
+WARNING 2025-05-17 11:13:49,158 basehttp 20032 9292 "POST /monitoring/nodes/heartbeat/ HTTP/1.1" 403 2855
+WARNING 2025-05-17 11:13:52,569 log 20032 16400 Forbidden (CSRF cookie not set.): /monitoring/nodes/heartbeat/
+WARNING 2025-05-17 11:13:52,570 basehttp 20032 16400 "POST /monitoring/nodes/heartbeat/ HTTP/1.1" 403 2855
+WARNING 2025-05-17 11:13:52,799 log 20032 13704 Forbidden (CSRF cookie not set.): /monitoring/nodes/heartbeat/
+WARNING 2025-05-17 11:13:52,800 basehttp 20032 13704 "POST /monitoring/nodes/heartbeat/ HTTP/1.1" 403 2855
+WARNING 2025-05-17 11:13:53,762 log 20032 21224 Forbidden (CSRF cookie not set.): /monitoring/nodes/heartbeat/
+WARNING 2025-05-17 11:13:53,763 basehttp 20032 21224 "POST /monitoring/nodes/heartbeat/ HTTP/1.1" 403 2855
+WARNING 2025-05-17 11:13:55,995 log 20032 18972 Forbidden (CSRF cookie not set.): /monitoring/nodes/heartbeat/
+WARNING 2025-05-17 11:13:55,996 basehttp 20032 18972 "POST /monitoring/nodes/heartbeat/ HTTP/1.1" 403 2855
+WARNING 2025-05-17 11:14:07,658 log 20032 21656 Forbidden (CSRF cookie not set.): /monitoring/nodes/heartbeat/
+WARNING 2025-05-17 11:14:07,660 basehttp 20032 21656 "POST /monitoring/nodes/heartbeat/ HTTP/1.1" 403 2855
+WARNING 2025-05-17 11:14:10,183 log 20032 24688 Forbidden (CSRF cookie not set.): /monitoring/nodes/heartbeat/
+WARNING 2025-05-17 11:14:10,184 basehttp 20032 24688 "POST /monitoring/nodes/heartbeat/ HTTP/1.1" 403 2855
+WARNING 2025-05-17 11:14:10,723 log 20032 24160 Forbidden (CSRF cookie not set.): /monitoring/nodes/heartbeat/
+WARNING 2025-05-17 11:14:10,724 basehttp 20032 24160 "POST /monitoring/nodes/heartbeat/ HTTP/1.1" 403 2855
+WARNING 2025-05-17 11:14:11,873 log 20032 17328 Forbidden (CSRF cookie not set.): /monitoring/nodes/heartbeat/
+WARNING 2025-05-17 11:14:11,875 basehttp 20032 17328 "POST /monitoring/nodes/heartbeat/ HTTP/1.1" 403 2855
+WARNING 2025-05-17 11:14:13,088 log 20032 14140 Forbidden (CSRF cookie not set.): /monitoring/nodes/heartbeat/
+WARNING 2025-05-17 11:14:13,089 basehttp 20032 14140 "POST /monitoring/nodes/heartbeat/ HTTP/1.1" 403 2855
+WARNING 2025-05-17 11:14:23,525 log 20032 26500 Forbidden (CSRF cookie not set.): /monitoring/nodes/heartbeat/
+WARNING 2025-05-17 11:14:23,525 basehttp 20032 26500 "POST /monitoring/nodes/heartbeat/ HTTP/1.1" 403 2855
+WARNING 2025-05-17 11:14:25,930 log 20032 17464 Forbidden (CSRF cookie not set.): /monitoring/nodes/heartbeat/
+WARNING 2025-05-17 11:14:25,931 basehttp 20032 17464 "POST /monitoring/nodes/heartbeat/ HTTP/1.1" 403 2855
+WARNING 2025-05-17 11:14:26,599 log 20032 12840 Forbidden (CSRF cookie not set.): /monitoring/nodes/heartbeat/
+WARNING 2025-05-17 11:14:26,600 basehttp 20032 12840 "POST /monitoring/nodes/heartbeat/ HTTP/1.1" 403 2855
+WARNING 2025-05-17 11:14:28,064 log 20032 20160 Forbidden (CSRF cookie not set.): /monitoring/nodes/heartbeat/
+WARNING 2025-05-17 11:14:28,066 basehttp 20032 20160 "POST /monitoring/nodes/heartbeat/ HTTP/1.1" 403 2855
+WARNING 2025-05-17 11:14:30,458 log 20032 24112 Forbidden (CSRF cookie not set.): /monitoring/nodes/heartbeat/
+WARNING 2025-05-17 11:14:30,459 basehttp 20032 24112 "POST /monitoring/nodes/heartbeat/ HTTP/1.1" 403 2855
+WARNING 2025-05-17 11:14:41,526 log 20032 5868 Forbidden (CSRF cookie not set.): /monitoring/nodes/heartbeat/
+WARNING 2025-05-17 11:14:41,527 basehttp 20032 5868 "POST /monitoring/nodes/heartbeat/ HTTP/1.1" 403 2855
+WARNING 2025-05-17 11:14:43,703 log 20032 22612 Forbidden (CSRF cookie not set.): /monitoring/nodes/heartbeat/
+WARNING 2025-05-17 11:14:43,705 basehttp 20032 22612 "POST /monitoring/nodes/heartbeat/ HTTP/1.1" 403 2855
+WARNING 2025-05-17 11:14:44,340 log 20032 27528 Forbidden (CSRF cookie not set.): /monitoring/nodes/heartbeat/
+WARNING 2025-05-17 11:14:44,342 basehttp 20032 27528 "POST /monitoring/nodes/heartbeat/ HTTP/1.1" 403 2855
+WARNING 2025-05-17 11:14:45,001 log 20032 16712 Forbidden (CSRF cookie not set.): /monitoring/nodes/heartbeat/
+WARNING 2025-05-17 11:14:45,002 basehttp 20032 16712 "POST /monitoring/nodes/heartbeat/ HTTP/1.1" 403 2855
+WARNING 2025-05-17 11:14:47,958 log 20032 12164 Forbidden (CSRF cookie not set.): /monitoring/nodes/heartbeat/
+WARNING 2025-05-17 11:14:47,959 basehttp 20032 12164 "POST /monitoring/nodes/heartbeat/ HTTP/1.1" 403 2855
+WARNING 2025-05-17 11:14:58,188 log 20032 19744 Forbidden (CSRF cookie not set.): /monitoring/nodes/heartbeat/
+WARNING 2025-05-17 11:14:58,189 basehttp 20032 19744 "POST /monitoring/nodes/heartbeat/ HTTP/1.1" 403 2855
+WARNING 2025-05-17 11:15:00,303 log 20032 20628 Forbidden (CSRF cookie not set.): /monitoring/nodes/heartbeat/
+WARNING 2025-05-17 11:15:00,305 basehttp 20032 20628 "POST /monitoring/nodes/heartbeat/ HTTP/1.1" 403 2855
+WARNING 2025-05-17 11:15:01,547 log 20032 3000 Forbidden (CSRF cookie not set.): /monitoring/nodes/heartbeat/
+WARNING 2025-05-17 11:15:01,548 basehttp 20032 3000 "POST /monitoring/nodes/heartbeat/ HTTP/1.1" 403 2855
+WARNING 2025-05-17 11:15:01,642 log 20032 18392 Forbidden (CSRF cookie not set.): /monitoring/nodes/heartbeat/
+WARNING 2025-05-17 11:15:01,643 basehttp 20032 18392 "POST /monitoring/nodes/heartbeat/ HTTP/1.1" 403 2855
+WARNING 2025-05-17 11:15:04,409 log 20032 2440 Forbidden (CSRF cookie not set.): /monitoring/nodes/heartbeat/
+WARNING 2025-05-17 11:15:04,410 basehttp 20032 2440 "POST /monitoring/nodes/heartbeat/ HTTP/1.1" 403 2855
+WARNING 2025-05-17 11:15:16,060 log 20032 13552 Forbidden (CSRF cookie not set.): /monitoring/nodes/heartbeat/
+WARNING 2025-05-17 11:15:16,062 basehttp 20032 13552 "POST /monitoring/nodes/heartbeat/ HTTP/1.1" 403 2855
+WARNING 2025-05-17 11:15:17,874 log 20032 15612 Forbidden (CSRF cookie not set.): /monitoring/nodes/heartbeat/
+WARNING 2025-05-17 11:15:17,875 basehttp 20032 15612 "POST /monitoring/nodes/heartbeat/ HTTP/1.1" 403 2855
+WARNING 2025-05-17 11:15:18,654 log 20032 17356 Forbidden (CSRF cookie not set.): /monitoring/nodes/heartbeat/
+WARNING 2025-05-17 11:15:18,654 basehttp 20032 17356 "POST /monitoring/nodes/heartbeat/ HTTP/1.1" 403 2855
+WARNING 2025-05-17 11:15:18,686 log 20032 15652 Forbidden (CSRF cookie not set.): /monitoring/nodes/heartbeat/
+WARNING 2025-05-17 11:15:18,687 basehttp 20032 15652 "POST /monitoring/nodes/heartbeat/ HTTP/1.1" 403 2855
+WARNING 2025-05-17 11:15:20,760 log 20032 2124 Forbidden (CSRF cookie not set.): /monitoring/nodes/heartbeat/
+WARNING 2025-05-17 11:15:20,761 basehttp 20032 2124 "POST /monitoring/nodes/heartbeat/ HTTP/1.1" 403 2855
+WARNING 2025-05-17 11:15:33,167 log 20032 20548 Forbidden (CSRF cookie not set.): /monitoring/nodes/heartbeat/
+WARNING 2025-05-17 11:15:33,168 basehttp 20032 20548 "POST /monitoring/nodes/heartbeat/ HTTP/1.1" 403 2855
+WARNING 2025-05-17 11:15:34,213 log 20032 7404 Forbidden (CSRF cookie not set.): /monitoring/nodes/heartbeat/
+WARNING 2025-05-17 11:15:34,214 basehttp 20032 7404 "POST /monitoring/nodes/heartbeat/ HTTP/1.1" 403 2855
+WARNING 2025-05-17 11:15:35,214 log 20032 13448 Forbidden (CSRF cookie not set.): /monitoring/nodes/heartbeat/
+WARNING 2025-05-17 11:15:35,217 basehttp 20032 13448 "POST /monitoring/nodes/heartbeat/ HTTP/1.1" 403 2855
+WARNING 2025-05-17 11:15:35,323 log 20032 14448 Forbidden (CSRF cookie not set.): /monitoring/nodes/heartbeat/
+WARNING 2025-05-17 11:15:35,324 basehttp 20032 14448 "POST /monitoring/nodes/heartbeat/ HTTP/1.1" 403 2855
+WARNING 2025-05-17 11:15:37,801 log 20032 11220 Forbidden (CSRF cookie not set.): /monitoring/nodes/heartbeat/
+WARNING 2025-05-17 11:15:37,802 basehttp 20032 11220 "POST /monitoring/nodes/heartbeat/ HTTP/1.1" 403 2855
+WARNING 2025-05-17 11:15:49,324 log 20032 19208 Forbidden (CSRF cookie not set.): /monitoring/nodes/heartbeat/
+WARNING 2025-05-17 11:15:49,325 basehttp 20032 19208 "POST /monitoring/nodes/heartbeat/ HTTP/1.1" 403 2855
+WARNING 2025-05-17 11:15:50,425 log 20032 15952 Forbidden (CSRF cookie not set.): /monitoring/nodes/heartbeat/
+WARNING 2025-05-17 11:15:50,426 basehttp 20032 15952 "POST /monitoring/nodes/heartbeat/ HTTP/1.1" 403 2855
+WARNING 2025-05-17 11:15:51,394 log 20032 19552 Forbidden (CSRF cookie not set.): /monitoring/nodes/heartbeat/
+WARNING 2025-05-17 11:15:51,396 basehttp 20032 19552 "POST /monitoring/nodes/heartbeat/ HTTP/1.1" 403 2855
+WARNING 2025-05-17 11:15:52,593 log 20032 6472 Forbidden (CSRF cookie not set.): /monitoring/nodes/heartbeat/
+WARNING 2025-05-17 11:15:52,595 basehttp 20032 6472 "POST /monitoring/nodes/heartbeat/ HTTP/1.1" 403 2855
+WARNING 2025-05-17 11:15:55,632 log 20032 25772 Forbidden (CSRF cookie not set.): /monitoring/nodes/heartbeat/
+WARNING 2025-05-17 11:15:55,633 basehttp 20032 25772 "POST /monitoring/nodes/heartbeat/ HTTP/1.1" 403 2855
+WARNING 2025-05-17 11:16:07,069 log 20032 24368 Forbidden (CSRF cookie not set.): /monitoring/nodes/heartbeat/
+WARNING 2025-05-17 11:16:07,070 basehttp 20032 24368 "POST /monitoring/nodes/heartbeat/ HTTP/1.1" 403 2855
+WARNING 2025-05-17 11:16:08,222 log 20032 10684 Forbidden (CSRF cookie not set.): /monitoring/nodes/heartbeat/
+WARNING 2025-05-17 11:16:08,223 log 20032 16596 Forbidden (CSRF cookie not set.): /monitoring/nodes/heartbeat/
+WARNING 2025-05-17 11:16:08,224 basehttp 20032 10684 "POST /monitoring/nodes/heartbeat/ HTTP/1.1" 403 2855
+WARNING 2025-05-17 11:16:08,224 basehttp 20032 16596 "POST /monitoring/nodes/heartbeat/ HTTP/1.1" 403 2855
+WARNING 2025-05-17 11:16:08,957 log 20032 23448 Forbidden (CSRF cookie not set.): /monitoring/nodes/heartbeat/
+WARNING 2025-05-17 11:16:08,958 basehttp 20032 23448 "POST /monitoring/nodes/heartbeat/ HTTP/1.1" 403 2855
+WARNING 2025-05-17 11:16:12,354 log 20032 21100 Forbidden (CSRF cookie not set.): /monitoring/nodes/heartbeat/
+WARNING 2025-05-17 11:16:12,355 basehttp 20032 21100 "POST /monitoring/nodes/heartbeat/ HTTP/1.1" 403 2855
+WARNING 2025-05-17 11:16:23,388 log 20032 21316 Forbidden (CSRF cookie not set.): /monitoring/nodes/heartbeat/
+WARNING 2025-05-17 11:16:23,389 basehttp 20032 21316 "POST /monitoring/nodes/heartbeat/ HTTP/1.1" 403 2855
+WARNING 2025-05-17 11:16:24,123 log 20032 17828 Forbidden (CSRF cookie not set.): /monitoring/nodes/heartbeat/
+WARNING 2025-05-17 11:16:24,125 basehttp 20032 17828 "POST /monitoring/nodes/heartbeat/ HTTP/1.1" 403 2855
+WARNING 2025-05-17 11:16:24,682 log 20032 16964 Forbidden (CSRF cookie not set.): /monitoring/nodes/heartbeat/
+WARNING 2025-05-17 11:16:24,682 basehttp 20032 16964 "POST /monitoring/nodes/heartbeat/ HTTP/1.1" 403 2855
+WARNING 2025-05-17 11:16:24,790 log 20032 19040 Forbidden (CSRF cookie not set.): /monitoring/nodes/heartbeat/
+WARNING 2025-05-17 11:16:24,790 basehttp 20032 19040 "POST /monitoring/nodes/heartbeat/ HTTP/1.1" 403 2855
+WARNING 2025-05-17 11:16:29,393 log 20032 13676 Forbidden (CSRF cookie not set.): /monitoring/nodes/heartbeat/
+WARNING 2025-05-17 11:16:29,394 basehttp 20032 13676 "POST /monitoring/nodes/heartbeat/ HTTP/1.1" 403 2855
+WARNING 2025-05-17 11:16:40,614 log 20032 12316 Forbidden (CSRF cookie not set.): /monitoring/nodes/heartbeat/
+WARNING 2025-05-17 11:16:40,614 basehttp 20032 12316 "POST /monitoring/nodes/heartbeat/ HTTP/1.1" 403 2855
+WARNING 2025-05-17 11:16:41,092 log 20032 26724 Forbidden (CSRF cookie not set.): /monitoring/nodes/heartbeat/
+WARNING 2025-05-17 11:16:41,093 basehttp 20032 26724 "POST /monitoring/nodes/heartbeat/ HTTP/1.1" 403 2855
+WARNING 2025-05-17 11:16:42,935 log 20032 11800 Forbidden (CSRF cookie not set.): /monitoring/nodes/heartbeat/
+WARNING 2025-05-17 11:16:42,936 basehttp 20032 11800 "POST /monitoring/nodes/heartbeat/ HTTP/1.1" 403 2855
+WARNING 2025-05-17 11:16:43,074 log 20032 11796 Forbidden (CSRF cookie not set.): /monitoring/nodes/heartbeat/
+WARNING 2025-05-17 11:16:43,075 basehttp 20032 11796 "POST /monitoring/nodes/heartbeat/ HTTP/1.1" 403 2855
+WARNING 2025-05-17 11:16:45,379 log 20032 12932 Forbidden (CSRF cookie not set.): /monitoring/nodes/heartbeat/
+WARNING 2025-05-17 11:16:45,380 basehttp 20032 12932 "POST /monitoring/nodes/heartbeat/ HTTP/1.1" 403 2855
+WARNING 2025-05-17 11:16:58,048 log 20032 24140 Forbidden (CSRF cookie not set.): /monitoring/nodes/heartbeat/
+WARNING 2025-05-17 11:16:58,049 basehttp 20032 24140 "POST /monitoring/nodes/heartbeat/ HTTP/1.1" 403 2855
+WARNING 2025-05-17 11:16:59,014 log 20032 27492 Forbidden (CSRF cookie not set.): /monitoring/nodes/heartbeat/
+WARNING 2025-05-17 11:16:59,015 basehttp 20032 27492 "POST /monitoring/nodes/heartbeat/ HTTP/1.1" 403 2855
+WARNING 2025-05-17 11:16:59,683 log 20032 26336 Forbidden (CSRF cookie not set.): /monitoring/nodes/heartbeat/
+WARNING 2025-05-17 11:16:59,684 basehttp 20032 26336 "POST /monitoring/nodes/heartbeat/ HTTP/1.1" 403 2855
+WARNING 2025-05-17 11:16:59,957 log 20032 17604 Forbidden (CSRF cookie not set.): /monitoring/nodes/heartbeat/
+WARNING 2025-05-17 11:16:59,958 basehttp 20032 17604 "POST /monitoring/nodes/heartbeat/ HTTP/1.1" 403 2855
+WARNING 2025-05-17 11:17:01,705 log 20032 22488 Forbidden (CSRF cookie not set.): /monitoring/nodes/heartbeat/
+WARNING 2025-05-17 11:17:01,706 basehttp 20032 22488 "POST /monitoring/nodes/heartbeat/ HTTP/1.1" 403 2855
+WARNING 2025-05-17 11:17:14,532 log 20032 12424 Forbidden (CSRF cookie not set.): /monitoring/nodes/heartbeat/
+WARNING 2025-05-17 11:17:14,533 basehttp 20032 12424 "POST /monitoring/nodes/heartbeat/ HTTP/1.1" 403 2855
+WARNING 2025-05-17 11:17:15,182 log 20032 12652 Forbidden (CSRF cookie not set.): /monitoring/nodes/heartbeat/
+WARNING 2025-05-17 11:17:15,183 basehttp 20032 12652 "POST /monitoring/nodes/heartbeat/ HTTP/1.1" 403 2855
+WARNING 2025-05-17 11:17:16,615 log 20032 9076 Forbidden (CSRF cookie not set.): /monitoring/nodes/heartbeat/
+WARNING 2025-05-17 11:17:16,616 basehttp 20032 9076 "POST /monitoring/nodes/heartbeat/ HTTP/1.1" 403 2855
+WARNING 2025-05-17 11:17:16,958 log 20032 19560 Forbidden (CSRF cookie not set.): /monitoring/nodes/heartbeat/
+WARNING 2025-05-17 11:17:16,959 basehttp 20032 19560 "POST /monitoring/nodes/heartbeat/ HTTP/1.1" 403 2855
+WARNING 2025-05-17 11:17:17,861 log 20032 8496 Forbidden (CSRF cookie not set.): /monitoring/nodes/heartbeat/
+WARNING 2025-05-17 11:17:17,862 basehttp 20032 8496 "POST /monitoring/nodes/heartbeat/ HTTP/1.1" 403 2855
+WARNING 2025-05-17 11:17:30,662 log 20032 15756 Forbidden (CSRF cookie not set.): /monitoring/nodes/heartbeat/
+WARNING 2025-05-17 11:17:30,664 basehttp 20032 15756 "POST /monitoring/nodes/heartbeat/ HTTP/1.1" 403 2855
+WARNING 2025-05-17 11:17:32,084 log 20032 17888 Forbidden (CSRF cookie not set.): /monitoring/nodes/heartbeat/
+WARNING 2025-05-17 11:17:32,085 basehttp 20032 17888 "POST /monitoring/nodes/heartbeat/ HTTP/1.1" 403 2855
+WARNING 2025-05-17 11:17:33,902 log 20032 9072 Forbidden (CSRF cookie not set.): /monitoring/nodes/heartbeat/
+WARNING 2025-05-17 11:17:33,904 basehttp 20032 9072 "POST /monitoring/nodes/heartbeat/ HTTP/1.1" 403 2855
+WARNING 2025-05-17 11:17:34,403 log 20032 22588 Forbidden (CSRF cookie not set.): /monitoring/nodes/heartbeat/
+WARNING 2025-05-17 11:17:34,405 basehttp 20032 22588 "POST /monitoring/nodes/heartbeat/ HTTP/1.1" 403 2855
+WARNING 2025-05-17 11:17:35,101 log 20032 23236 Forbidden (CSRF cookie not set.): /monitoring/nodes/heartbeat/
+WARNING 2025-05-17 11:17:35,102 basehttp 20032 23236 "POST /monitoring/nodes/heartbeat/ HTTP/1.1" 403 2855
+WARNING 2025-05-17 11:17:47,598 log 20032 1452 Forbidden (CSRF cookie not set.): /monitoring/nodes/heartbeat/
+WARNING 2025-05-17 11:17:47,600 basehttp 20032 1452 "POST /monitoring/nodes/heartbeat/ HTTP/1.1" 403 2855
+WARNING 2025-05-17 11:17:50,125 log 20032 26408 Forbidden (CSRF cookie not set.): /monitoring/nodes/heartbeat/
+WARNING 2025-05-17 11:17:50,126 basehttp 20032 26408 "POST /monitoring/nodes/heartbeat/ HTTP/1.1" 403 2855
+WARNING 2025-05-17 11:17:50,532 log 20032 10836 Forbidden (CSRF cookie not set.): /monitoring/nodes/heartbeat/
+WARNING 2025-05-17 11:17:50,534 basehttp 20032 10836 "POST /monitoring/nodes/heartbeat/ HTTP/1.1" 403 2855
+WARNING 2025-05-17 11:17:50,905 log 20032 5108 Forbidden (CSRF cookie not set.): /monitoring/nodes/heartbeat/
+WARNING 2025-05-17 11:17:50,906 basehttp 20032 5108 "POST /monitoring/nodes/heartbeat/ HTTP/1.1" 403 2855
+WARNING 2025-05-17 11:17:52,169 log 20032 13216 Forbidden (CSRF cookie not set.): /monitoring/nodes/heartbeat/
+WARNING 2025-05-17 11:17:52,171 basehttp 20032 13216 "POST /monitoring/nodes/heartbeat/ HTTP/1.1" 403 2855
+WARNING 2025-05-17 11:18:03,842 log 20032 3776 Forbidden (CSRF cookie not set.): /monitoring/nodes/heartbeat/
+WARNING 2025-05-17 11:18:03,844 basehttp 20032 3776 "POST /monitoring/nodes/heartbeat/ HTTP/1.1" 403 2855
+WARNING 2025-05-17 11:18:06,924 log 20032 24472 Forbidden (CSRF cookie not set.): /monitoring/nodes/heartbeat/
+WARNING 2025-05-17 11:18:06,925 basehttp 20032 24472 "POST /monitoring/nodes/heartbeat/ HTTP/1.1" 403 2855
+WARNING 2025-05-17 11:18:07,314 log 20032 11364 Forbidden (CSRF cookie not set.): /monitoring/nodes/heartbeat/
+WARNING 2025-05-17 11:18:07,315 basehttp 20032 11364 "POST /monitoring/nodes/heartbeat/ HTTP/1.1" 403 2855
+WARNING 2025-05-17 11:18:07,485 log 20032 17552 Forbidden (CSRF cookie not set.): /monitoring/nodes/heartbeat/
+WARNING 2025-05-17 11:18:07,486 basehttp 20032 17552 "POST /monitoring/nodes/heartbeat/ HTTP/1.1" 403 2855
+WARNING 2025-05-17 11:18:10,435 log 20032 24320 Forbidden (CSRF cookie not set.): /monitoring/nodes/heartbeat/
+WARNING 2025-05-17 11:18:10,436 basehttp 20032 24320 "POST /monitoring/nodes/heartbeat/ HTTP/1.1" 403 2855
+WARNING 2025-05-17 11:18:19,599 log 20032 10156 Forbidden (CSRF cookie not set.): /monitoring/nodes/heartbeat/
+WARNING 2025-05-17 11:18:19,600 basehttp 20032 10156 "POST /monitoring/nodes/heartbeat/ HTTP/1.1" 403 2855
+WARNING 2025-05-17 11:18:22,477 log 20032 9352 Forbidden (CSRF cookie not set.): /monitoring/nodes/heartbeat/
+WARNING 2025-05-17 11:18:22,478 basehttp 20032 9352 "POST /monitoring/nodes/heartbeat/ HTTP/1.1" 403 2855
+WARNING 2025-05-17 11:18:23,996 log 20032 18716 Forbidden (CSRF cookie not set.): /monitoring/nodes/heartbeat/
+WARNING 2025-05-17 11:18:23,997 basehttp 20032 18716 "POST /monitoring/nodes/heartbeat/ HTTP/1.1" 403 2855
+WARNING 2025-05-17 11:18:25,844 log 20032 3080 Forbidden (CSRF cookie not set.): /monitoring/nodes/heartbeat/
+WARNING 2025-05-17 11:18:25,845 basehttp 20032 3080 "POST /monitoring/nodes/heartbeat/ HTTP/1.1" 403 2855
+WARNING 2025-05-17 11:18:26,013 log 20032 21224 Forbidden (CSRF cookie not set.): /monitoring/nodes/heartbeat/
+WARNING 2025-05-17 11:18:26,015 basehttp 20032 21224 "POST /monitoring/nodes/heartbeat/ HTTP/1.1" 403 2855
+INFO 2025-05-17 11:20:49,812 autoreload 24980 23916 Watching for file changes with StatReloader
+WARNING 2025-05-17 11:21:05,076 log 24980 23448 Forbidden (CSRF cookie not set.): /monitoring/nodes/heartbeat/
+WARNING 2025-05-17 11:21:05,077 basehttp 24980 23448 "POST /monitoring/nodes/heartbeat/ HTTP/1.1" 403 2855
+WARNING 2025-05-17 11:21:05,184 log 24980 852 Forbidden (CSRF cookie not set.): /monitoring/nodes/heartbeat/
+WARNING 2025-05-17 11:21:05,185 basehttp 24980 852 "POST /monitoring/nodes/heartbeat/ HTTP/1.1" 403 2855
+WARNING 2025-05-17 11:21:06,523 log 24980 19492 Forbidden (CSRF cookie not set.): /monitoring/nodes/heartbeat/
+WARNING 2025-05-17 11:21:06,524 basehttp 24980 19492 "POST /monitoring/nodes/heartbeat/ HTTP/1.1" 403 2855
+WARNING 2025-05-17 11:21:07,751 log 24980 23232 Forbidden (CSRF cookie not set.): /monitoring/nodes/heartbeat/
+WARNING 2025-05-17 11:21:07,753 basehttp 24980 23232 "POST /monitoring/nodes/heartbeat/ HTTP/1.1" 403 2855
+WARNING 2025-05-17 11:21:07,860 log 24980 16768 Forbidden (CSRF cookie not set.): /monitoring/nodes/heartbeat/
+WARNING 2025-05-17 11:21:07,862 basehttp 24980 16768 "POST /monitoring/nodes/heartbeat/ HTTP/1.1" 403 2855
+WARNING 2025-05-17 11:21:22,589 log 24980 11708 Forbidden (CSRF cookie not set.): /monitoring/nodes/heartbeat/
+WARNING 2025-05-17 11:21:22,591 basehttp 24980 11708 "POST /monitoring/nodes/heartbeat/ HTTP/1.1" 403 2855
+WARNING 2025-05-17 11:21:22,910 log 24980 3000 Forbidden (CSRF cookie not set.): /monitoring/nodes/heartbeat/
+WARNING 2025-05-17 11:21:22,912 basehttp 24980 3000 "POST /monitoring/nodes/heartbeat/ HTTP/1.1" 403 2855
+WARNING 2025-05-17 11:21:23,236 log 24980 14908 Forbidden (CSRF cookie not set.): /monitoring/nodes/heartbeat/
+WARNING 2025-05-17 11:21:23,238 basehttp 24980 14908 "POST /monitoring/nodes/heartbeat/ HTTP/1.1" 403 2855
+WARNING 2025-05-17 11:21:26,072 log 24980 20200 Forbidden (CSRF cookie not set.): /monitoring/nodes/heartbeat/
+WARNING 2025-05-17 11:21:26,073 basehttp 24980 20200 "POST /monitoring/nodes/heartbeat/ HTTP/1.1" 403 2855
+WARNING 2025-05-17 11:21:26,104 log 24980 20496 Forbidden (CSRF cookie not set.): /monitoring/nodes/heartbeat/
+WARNING 2025-05-17 11:21:26,105 basehttp 24980 20496 "POST /monitoring/nodes/heartbeat/ HTTP/1.1" 403 2855
+WARNING 2025-05-17 11:21:38,772 log 24980 18264 Forbidden (CSRF cookie not set.): /monitoring/nodes/heartbeat/
+WARNING 2025-05-17 11:21:38,773 basehttp 24980 18264 "POST /monitoring/nodes/heartbeat/ HTTP/1.1" 403 2855
+WARNING 2025-05-17 11:21:39,102 log 24980 20560 Forbidden (CSRF cookie not set.): /monitoring/nodes/heartbeat/
+WARNING 2025-05-17 11:21:39,104 basehttp 24980 20560 "POST /monitoring/nodes/heartbeat/ HTTP/1.1" 403 2855
+WARNING 2025-05-17 11:21:39,663 log 24980 5624 Forbidden (CSRF cookie not set.): /monitoring/nodes/heartbeat/
+WARNING 2025-05-17 11:21:39,665 basehttp 24980 5624 "POST /monitoring/nodes/heartbeat/ HTTP/1.1" 403 2855
+WARNING 2025-05-17 11:21:43,021 log 24980 10456 Forbidden (CSRF cookie not set.): /monitoring/nodes/heartbeat/
+WARNING 2025-05-17 11:21:43,022 basehttp 24980 10456 "POST /monitoring/nodes/heartbeat/ HTTP/1.1" 403 2855
+WARNING 2025-05-17 11:21:43,872 log 24980 16132 Forbidden (CSRF cookie not set.): /monitoring/nodes/heartbeat/
+WARNING 2025-05-17 11:21:43,873 basehttp 24980 16132 "POST /monitoring/nodes/heartbeat/ HTTP/1.1" 403 2855
+WARNING 2025-05-17 11:21:55,782 log 24980 10160 Forbidden (CSRF cookie not set.): /monitoring/nodes/heartbeat/
+WARNING 2025-05-17 11:21:55,791 basehttp 24980 10160 "POST /monitoring/nodes/heartbeat/ HTTP/1.1" 403 2855
+WARNING 2025-05-17 11:21:56,521 log 24980 10448 Forbidden (CSRF cookie not set.): /monitoring/nodes/heartbeat/
+WARNING 2025-05-17 11:21:56,524 basehttp 24980 10448 "POST /monitoring/nodes/heartbeat/ HTTP/1.1" 403 2855
+WARNING 2025-05-17 11:21:57,558 log 24980 21276 Forbidden (CSRF cookie not set.): /monitoring/nodes/heartbeat/
+WARNING 2025-05-17 11:21:57,560 basehttp 24980 21276 "POST /monitoring/nodes/heartbeat/ HTTP/1.1" 403 2855
+WARNING 2025-05-17 11:22:00,012 log 24980 21224 Forbidden (CSRF cookie not set.): /monitoring/nodes/heartbeat/
+WARNING 2025-05-17 11:22:00,034 basehttp 24980 21224 "POST /monitoring/nodes/heartbeat/ HTTP/1.1" 403 2855
+WARNING 2025-05-17 11:22:01,403 log 24980 11284 Forbidden (CSRF cookie not set.): /monitoring/nodes/heartbeat/
+WARNING 2025-05-17 11:22:01,405 basehttp 24980 11284 "POST /monitoring/nodes/heartbeat/ HTTP/1.1" 403 2855
+WARNING 2025-05-17 11:22:11,368 log 24980 6176 Forbidden (CSRF cookie not set.): /monitoring/nodes/heartbeat/
+WARNING 2025-05-17 11:22:11,369 basehttp 24980 6176 "POST /monitoring/nodes/heartbeat/ HTTP/1.1" 403 2855
+WARNING 2025-05-17 11:22:14,043 log 24980 13472 Forbidden (CSRF cookie not set.): /monitoring/nodes/heartbeat/
+WARNING 2025-05-17 11:22:14,044 basehttp 24980 13472 "POST /monitoring/nodes/heartbeat/ HTTP/1.1" 403 2855
+WARNING 2025-05-17 11:22:14,308 log 24980 2728 Forbidden (CSRF cookie not set.): /monitoring/nodes/heartbeat/
+WARNING 2025-05-17 11:22:14,309 basehttp 24980 2728 "POST /monitoring/nodes/heartbeat/ HTTP/1.1" 403 2855
+WARNING 2025-05-17 11:22:17,911 log 24980 18924 Forbidden (CSRF cookie not set.): /monitoring/nodes/heartbeat/
+WARNING 2025-05-17 11:22:17,913 basehttp 24980 18924 "POST /monitoring/nodes/heartbeat/ HTTP/1.1" 403 2855
+WARNING 2025-05-17 11:22:18,439 log 24980 10820 Forbidden (CSRF cookie not set.): /monitoring/nodes/heartbeat/
+WARNING 2025-05-17 11:22:18,440 basehttp 24980 10820 "POST /monitoring/nodes/heartbeat/ HTTP/1.1" 403 2855
+INFO 2025-05-17 11:36:34,351 autoreload 11844 13836 Watching for file changes with StatReloader
+INFO 2025-05-17 11:37:29,387 basehttp 11844 2716 "OPTIONS /api/accounts/users/me/ HTTP/1.1" 200 0
+INFO 2025-05-17 11:37:29,388 basehttp 11844 1384 "OPTIONS /api/accounts/users/me/ HTTP/1.1" 200 0
+WARNING 2025-05-17 11:37:29,406 log 11844 1384 Unauthorized: /api/accounts/users/me/
+WARNING 2025-05-17 11:37:29,407 basehttp 11844 1384 "GET /api/accounts/users/me/ HTTP/1.1" 401 27
+WARNING 2025-05-17 11:37:29,414 log 11844 1384 Unauthorized: /api/accounts/users/me/
+WARNING 2025-05-17 11:37:29,415 basehttp 11844 1384 "GET /api/accounts/users/me/ HTTP/1.1" 401 27
+INFO 2025-05-17 11:37:52,619 basehttp 11844 4380 "OPTIONS /api/accounts/auth/token/ HTTP/1.1" 200 0
+INFO 2025-05-17 11:37:52,983 basehttp 11844 4380 "POST /api/accounts/auth/token/ HTTP/1.1" 200 52
+INFO 2025-05-17 11:37:52,991 basehttp 11844 4380 "GET /api/accounts/users/me/ HTTP/1.1" 200 164
+INFO 2025-05-17 11:38:01,380 basehttp 11844 8472 "OPTIONS /api/barbers/profiles/ HTTP/1.1" 200 0
+INFO 2025-05-17 11:38:01,381 basehttp 11844 2096 "OPTIONS /api/barbers/profiles/ HTTP/1.1" 200 0
+INFO 2025-05-17 11:38:01,418 basehttp 11844 2096 "GET /api/barbers/profiles/ HTTP/1.1" 200 442
+INFO 2025-05-17 11:38:01,423 basehttp 11844 2096 "OPTIONS /api/services/ HTTP/1.1" 200 0
+INFO 2025-05-17 11:38:01,429 basehttp 11844 8472 "GET /api/barbers/profiles/ HTTP/1.1" 200 442
+INFO 2025-05-17 11:38:01,466 basehttp 11844 2096 "GET /api/services/ HTTP/1.1" 200 187
+INFO 2025-05-17 11:38:01,472 basehttp 11844 8472 "GET /api/services/ HTTP/1.1" 200 187
+INFO 2025-05-17 11:38:02,955 basehttp 11844 8472 "OPTIONS /api/schedules/workdays/?barber=3 HTTP/1.1" 200 0
+INFO 2025-05-17 11:38:02,965 basehttp 11844 8472 "GET /api/schedules/workdays/?barber=3 HTTP/1.1" 200 397
+INFO 2025-05-17 11:38:06,956 basehttp 11844 26188 "OPTIONS /api/schedules/timeslots/?work_day=6 HTTP/1.1" 200 0
+INFO 2025-05-17 11:38:06,964 basehttp 11844 26188 "GET /api/schedules/timeslots/?work_day=6 HTTP/1.1" 200 126
+INFO 2025-05-17 11:38:09,455 basehttp 11844 26188 "OPTIONS /api/appointments/ HTTP/1.1" 200 0
+INFO 2025-05-17 11:38:09,484 basehttp 11844 26188 "POST /api/appointments/ HTTP/1.1" 201 1040
+INFO 2025-05-17 11:38:10,198 basehttp 11844 26188 "OPTIONS /api/appointments/18/ HTTP/1.1" 200 0
+INFO 2025-05-17 11:38:10,198 basehttp 11844 25436 "OPTIONS /api/appointments/18/ HTTP/1.1" 200 0
+INFO 2025-05-17 11:38:10,217 basehttp 11844 26188 "GET /api/appointments/18/ HTTP/1.1" 200 1040
+INFO 2025-05-17 11:38:10,229 basehttp 11844 25436 "GET /api/appointments/18/ HTTP/1.1" 200 1040
+WARNING 2025-05-17 11:39:00,622 log 11844 860 Forbidden (CSRF cookie not set.): /monitoring/raw/heartbeat/
+WARNING 2025-05-17 11:39:00,622 log 11844 12148 Forbidden (CSRF cookie not set.): /monitoring/raw/heartbeat/
+WARNING 2025-05-17 11:39:00,624 log 11844 13676 Forbidden (CSRF cookie not set.): /monitoring/raw/heartbeat/
+WARNING 2025-05-17 11:39:00,626 basehttp 11844 860 "POST /monitoring/raw/heartbeat/ HTTP/1.1" 403 2855
+WARNING 2025-05-17 11:39:00,626 log 11844 22664 Forbidden (CSRF cookie not set.): /monitoring/raw/heartbeat/
+WARNING 2025-05-17 11:39:00,626 basehttp 11844 12148 "POST /monitoring/raw/heartbeat/ HTTP/1.1" 403 2855
+WARNING 2025-05-17 11:39:00,627 log 11844 5304 Forbidden (CSRF cookie not set.): /monitoring/raw/heartbeat/
+WARNING 2025-05-17 11:39:00,627 basehttp 11844 13676 "POST /monitoring/raw/heartbeat/ HTTP/1.1" 403 2855
+WARNING 2025-05-17 11:39:00,628 basehttp 11844 22664 "POST /monitoring/raw/heartbeat/ HTTP/1.1" 403 2855
+WARNING 2025-05-17 11:39:00,628 basehttp 11844 5304 "POST /monitoring/raw/heartbeat/ HTTP/1.1" 403 2855
+WARNING 2025-05-17 11:39:16,189 log 11844 14804 Forbidden (CSRF cookie not set.): /monitoring/raw/heartbeat/
+WARNING 2025-05-17 11:39:16,191 basehttp 11844 14804 "POST /monitoring/raw/heartbeat/ HTTP/1.1" 403 2855
+WARNING 2025-05-17 11:39:17,338 log 11844 9052 Forbidden (CSRF cookie not set.): /monitoring/raw/heartbeat/
+WARNING 2025-05-17 11:39:17,339 basehttp 11844 9052 "POST /monitoring/raw/heartbeat/ HTTP/1.1" 403 2855
+WARNING 2025-05-17 11:39:17,355 log 11844 8620 Forbidden (CSRF cookie not set.): /monitoring/raw/heartbeat/
+WARNING 2025-05-17 11:39:17,356 basehttp 11844 8620 "POST /monitoring/raw/heartbeat/ HTTP/1.1" 403 2855
+WARNING 2025-05-17 11:39:17,765 log 11844 11988 Forbidden (CSRF cookie not set.): /monitoring/raw/heartbeat/
+WARNING 2025-05-17 11:39:17,766 basehttp 11844 11988 "POST /monitoring/raw/heartbeat/ HTTP/1.1" 403 2855
+WARNING 2025-05-17 11:39:18,169 log 11844 13284 Forbidden (CSRF cookie not set.): /monitoring/raw/heartbeat/
+WARNING 2025-05-17 11:39:18,170 basehttp 11844 13284 "POST /monitoring/raw/heartbeat/ HTTP/1.1" 403 2855
+WARNING 2025-05-17 11:39:32,932 log 11844 8472 Forbidden (CSRF cookie not set.): /monitoring/raw/heartbeat/
+WARNING 2025-05-17 11:39:32,933 basehttp 11844 8472 "POST /monitoring/raw/heartbeat/ HTTP/1.1" 403 2855
+WARNING 2025-05-17 11:39:33,338 log 11844 24800 Forbidden (CSRF cookie not set.): /monitoring/raw/heartbeat/
+WARNING 2025-05-17 11:39:33,340 basehttp 11844 24800 "POST /monitoring/raw/heartbeat/ HTTP/1.1" 403 2855
+WARNING 2025-05-17 11:39:34,459 log 11844 16816 Forbidden (CSRF cookie not set.): /monitoring/raw/heartbeat/
+WARNING 2025-05-17 11:39:34,461 basehttp 11844 16816 "POST /monitoring/raw/heartbeat/ HTTP/1.1" 403 2855
+WARNING 2025-05-17 11:39:35,174 log 11844 26040 Forbidden (CSRF cookie not set.): /monitoring/raw/heartbeat/
+WARNING 2025-05-17 11:39:35,176 basehttp 11844 26040 "POST /monitoring/raw/heartbeat/ HTTP/1.1" 403 2855
+WARNING 2025-05-17 11:39:35,578 log 11844 15024 Forbidden (CSRF cookie not set.): /monitoring/raw/heartbeat/
+WARNING 2025-05-17 11:39:35,579 basehttp 11844 15024 "POST /monitoring/raw/heartbeat/ HTTP/1.1" 403 2855
+WARNING 2025-05-17 11:39:50,841 log 11844 3088 Forbidden (CSRF cookie not set.): /monitoring/raw/heartbeat/
+WARNING 2025-05-17 11:39:50,841 basehttp 11844 3088 "POST /monitoring/raw/heartbeat/ HTTP/1.1" 403 2855
+WARNING 2025-05-17 11:39:50,918 log 11844 21580 Forbidden (CSRF cookie not set.): /monitoring/raw/heartbeat/
+WARNING 2025-05-17 11:39:50,919 basehttp 11844 21580 "POST /monitoring/raw/heartbeat/ HTTP/1.1" 403 2855
+WARNING 2025-05-17 11:39:51,775 log 11844 11448 Forbidden (CSRF cookie not set.): /monitoring/raw/heartbeat/
+WARNING 2025-05-17 11:39:51,775 basehttp 11844 11448 "POST /monitoring/raw/heartbeat/ HTTP/1.1" 403 2855
+WARNING 2025-05-17 11:39:52,525 log 11844 10672 Forbidden (CSRF cookie not set.): /monitoring/raw/heartbeat/
+WARNING 2025-05-17 11:39:52,529 basehttp 11844 10672 "POST /monitoring/raw/heartbeat/ HTTP/1.1" 403 2855
+WARNING 2025-05-17 11:39:52,726 log 11844 14320 Forbidden (CSRF cookie not set.): /monitoring/raw/heartbeat/
+WARNING 2025-05-17 11:39:52,727 basehttp 11844 14320 "POST /monitoring/raw/heartbeat/ HTTP/1.1" 403 2855
+WARNING 2025-05-17 11:40:07,286 log 11844 16700 Forbidden (CSRF cookie not set.): /monitoring/raw/heartbeat/
+WARNING 2025-05-17 11:40:07,287 basehttp 11844 16700 "POST /monitoring/raw/heartbeat/ HTTP/1.1" 403 2855
+WARNING 2025-05-17 11:40:07,428 log 11844 19500 Forbidden (CSRF cookie not set.): /monitoring/raw/heartbeat/
+WARNING 2025-05-17 11:40:07,429 basehttp 11844 19500 "POST /monitoring/raw/heartbeat/ HTTP/1.1" 403 2855
+WARNING 2025-05-17 11:40:08,287 log 11844 26500 Forbidden (CSRF cookie not set.): /monitoring/raw/heartbeat/
+WARNING 2025-05-17 11:40:08,288 basehttp 11844 26500 "POST /monitoring/raw/heartbeat/ HTTP/1.1" 403 2855
+WARNING 2025-05-17 11:40:08,755 log 11844 11764 Forbidden (CSRF cookie not set.): /monitoring/raw/heartbeat/
+WARNING 2025-05-17 11:40:08,756 basehttp 11844 11764 "POST /monitoring/raw/heartbeat/ HTTP/1.1" 403 2855
+WARNING 2025-05-17 11:40:08,987 log 11844 11704 Forbidden (CSRF cookie not set.): /monitoring/raw/heartbeat/
+WARNING 2025-05-17 11:40:08,988 basehttp 11844 11704 "POST /monitoring/raw/heartbeat/ HTTP/1.1" 403 2855
+INFO 2025-05-17 11:48:38,525 autoreload 22488 20200 Watching for file changes with StatReloader
+WARNING 2025-05-17 11:48:43,023 log 22488 6140 Forbidden (CSRF cookie not set.): /monitoring/raw/heartbeat/
+WARNING 2025-05-17 11:48:43,024 log 22488 18972 Forbidden (CSRF cookie not set.): /monitoring/raw/heartbeat/
+WARNING 2025-05-17 11:48:43,024 log 22488 3540 Forbidden (CSRF cookie not set.): /monitoring/raw/heartbeat/
+WARNING 2025-05-17 11:48:43,025 log 22488 9360 Forbidden (CSRF cookie not set.): /monitoring/raw/heartbeat/
+WARNING 2025-05-17 11:48:43,026 log 22488 20100 Forbidden (CSRF cookie not set.): /monitoring/raw/heartbeat/
+WARNING 2025-05-17 11:48:43,027 basehttp 22488 6140 "POST /monitoring/raw/heartbeat/ HTTP/1.1" 403 2855
+WARNING 2025-05-17 11:48:43,027 basehttp 22488 18972 "POST /monitoring/raw/heartbeat/ HTTP/1.1" 403 2855
+WARNING 2025-05-17 11:48:43,028 basehttp 22488 3540 "POST /monitoring/raw/heartbeat/ HTTP/1.1" 403 2855
+WARNING 2025-05-17 11:48:43,028 basehttp 22488 9360 "POST /monitoring/raw/heartbeat/ HTTP/1.1" 403 2855
+WARNING 2025-05-17 11:48:43,028 basehttp 22488 20100 "POST /monitoring/raw/heartbeat/ HTTP/1.1" 403 2855
+WARNING 2025-05-17 11:48:58,887 log 22488 1448 Forbidden (CSRF cookie not set.): /monitoring/raw/heartbeat/
+WARNING 2025-05-17 11:48:58,887 basehttp 22488 1448 "POST /monitoring/raw/heartbeat/ HTTP/1.1" 403 2855
+WARNING 2025-05-17 11:48:59,537 log 22488 9164 Forbidden (CSRF cookie not set.): /monitoring/raw/heartbeat/
+WARNING 2025-05-17 11:48:59,538 basehttp 22488 9164 "POST /monitoring/raw/heartbeat/ HTTP/1.1" 403 2855
+WARNING 2025-05-17 11:48:59,723 log 22488 11060 Forbidden (CSRF cookie not set.): /monitoring/raw/heartbeat/
+WARNING 2025-05-17 11:48:59,725 basehttp 22488 11060 "POST /monitoring/raw/heartbeat/ HTTP/1.1" 403 2855
+WARNING 2025-05-17 11:49:00,116 log 22488 22552 Forbidden (CSRF cookie not set.): /monitoring/raw/heartbeat/
+WARNING 2025-05-17 11:49:00,117 basehttp 22488 22552 "POST /monitoring/raw/heartbeat/ HTTP/1.1" 403 2855
+WARNING 2025-05-17 11:49:01,544 log 22488 15504 Forbidden (CSRF cookie not set.): /monitoring/raw/heartbeat/
+WARNING 2025-05-17 11:49:01,545 basehttp 22488 15504 "POST /monitoring/raw/heartbeat/ HTTP/1.1" 403 2855
+WARNING 2025-05-17 11:49:15,803 log 22488 19776 Forbidden (CSRF cookie not set.): /monitoring/raw/heartbeat/
+WARNING 2025-05-17 11:49:15,806 basehttp 22488 19776 "POST /monitoring/raw/heartbeat/ HTTP/1.1" 403 2855
+WARNING 2025-05-17 11:49:15,837 log 22488 1484 Forbidden (CSRF cookie not set.): /monitoring/raw/heartbeat/
+WARNING 2025-05-17 11:49:15,838 basehttp 22488 1484 "POST /monitoring/raw/heartbeat/ HTTP/1.1" 403 2855
+WARNING 2025-05-17 11:49:17,182 log 22488 27328 Forbidden (CSRF cookie not set.): /monitoring/raw/heartbeat/
+WARNING 2025-05-17 11:49:17,183 basehttp 22488 27328 "POST /monitoring/raw/heartbeat/ HTTP/1.1" 403 2855
+WARNING 2025-05-17 11:49:17,718 log 22488 19644 Forbidden (CSRF cookie not set.): /monitoring/raw/heartbeat/
+WARNING 2025-05-17 11:49:17,719 basehttp 22488 19644 "POST /monitoring/raw/heartbeat/ HTTP/1.1" 403 2855
+WARNING 2025-05-17 11:49:19,222 log 22488 27548 Forbidden (CSRF cookie not set.): /monitoring/raw/heartbeat/
+WARNING 2025-05-17 11:49:19,225 basehttp 22488 27548 "POST /monitoring/raw/heartbeat/ HTTP/1.1" 403 2855
+WARNING 2025-05-17 11:49:33,063 log 22488 24648 Forbidden (CSRF cookie not set.): /monitoring/raw/heartbeat/
+WARNING 2025-05-17 11:49:33,065 basehttp 22488 24648 "POST /monitoring/raw/heartbeat/ HTTP/1.1" 403 2855
+WARNING 2025-05-17 11:49:33,578 log 22488 3168 Forbidden (CSRF cookie not set.): /monitoring/raw/heartbeat/
+WARNING 2025-05-17 11:49:33,579 basehttp 22488 3168 "POST /monitoring/raw/heartbeat/ HTTP/1.1" 403 2855
+WARNING 2025-05-17 11:49:34,839 log 22488 17152 Forbidden (CSRF cookie not set.): /monitoring/raw/heartbeat/
+WARNING 2025-05-17 11:49:34,840 basehttp 22488 17152 "POST /monitoring/raw/heartbeat/ HTTP/1.1" 403 2855
+WARNING 2025-05-17 11:49:35,450 log 22488 11400 Forbidden (CSRF cookie not set.): /monitoring/raw/heartbeat/
+WARNING 2025-05-17 11:49:35,452 basehttp 22488 11400 "POST /monitoring/raw/heartbeat/ HTTP/1.1" 403 2855
+WARNING 2025-05-17 11:49:37,660 log 22488 18260 Forbidden (CSRF cookie not set.): /monitoring/raw/heartbeat/
+WARNING 2025-05-17 11:49:37,662 basehttp 22488 18260 "POST /monitoring/raw/heartbeat/ HTTP/1.1" 403 2855
+WARNING 2025-05-17 11:49:50,413 log 22488 18860 Forbidden (CSRF cookie not set.): /monitoring/raw/heartbeat/
+WARNING 2025-05-17 11:49:50,414 basehttp 22488 18860 "POST /monitoring/raw/heartbeat/ HTTP/1.1" 403 2855
+WARNING 2025-05-17 11:49:50,818 log 22488 20156 Forbidden (CSRF cookie not set.): /monitoring/raw/heartbeat/
+WARNING 2025-05-17 11:49:50,819 basehttp 22488 20156 "POST /monitoring/raw/heartbeat/ HTTP/1.1" 403 2855
+WARNING 2025-05-17 11:49:50,942 log 22488 16712 Forbidden (CSRF cookie not set.): /monitoring/raw/heartbeat/
+WARNING 2025-05-17 11:49:50,943 basehttp 22488 16712 "POST /monitoring/raw/heartbeat/ HTTP/1.1" 403 2855
+WARNING 2025-05-17 11:49:53,202 log 22488 24368 Forbidden (CSRF cookie not set.): /monitoring/raw/heartbeat/
+WARNING 2025-05-17 11:49:53,204 basehttp 22488 24368 "POST /monitoring/raw/heartbeat/ HTTP/1.1" 403 2855
+WARNING 2025-05-17 11:49:54,123 log 22488 18428 Forbidden (CSRF cookie not set.): /monitoring/raw/heartbeat/
+WARNING 2025-05-17 11:49:54,124 basehttp 22488 18428 "POST /monitoring/raw/heartbeat/ HTTP/1.1" 403 2855
+WARNING 2025-05-17 11:50:06,988 log 22488 12332 Forbidden (CSRF cookie not set.): /monitoring/raw/heartbeat/
+WARNING 2025-05-17 11:50:06,990 basehttp 22488 12332 "POST /monitoring/raw/heartbeat/ HTTP/1.1" 403 2855
+WARNING 2025-05-17 11:50:08,085 log 22488 22500 Forbidden (CSRF cookie not set.): /monitoring/raw/heartbeat/
+WARNING 2025-05-17 11:50:08,087 basehttp 22488 22500 "POST /monitoring/raw/heartbeat/ HTTP/1.1" 403 2855
+WARNING 2025-05-17 11:50:08,143 log 22488 11220 Forbidden (CSRF cookie not set.): /monitoring/raw/heartbeat/
+WARNING 2025-05-17 11:50:08,144 basehttp 22488 11220 "POST /monitoring/raw/heartbeat/ HTTP/1.1" 403 2855
+WARNING 2025-05-17 11:50:10,801 log 22488 16128 Forbidden (CSRF cookie not set.): /monitoring/raw/heartbeat/
+WARNING 2025-05-17 11:50:10,802 basehttp 22488 16128 "POST /monitoring/raw/heartbeat/ HTTP/1.1" 403 2855
+WARNING 2025-05-17 11:50:11,067 log 22488 16008 Forbidden (CSRF cookie not set.): /monitoring/raw/heartbeat/
+WARNING 2025-05-17 11:50:11,068 basehttp 22488 16008 "POST /monitoring/raw/heartbeat/ HTTP/1.1" 403 2855
+WARNING 2025-05-17 11:50:23,703 log 22488 21328 Forbidden (CSRF cookie not set.): /monitoring/raw/heartbeat/
+WARNING 2025-05-17 11:50:23,704 basehttp 22488 21328 "POST /monitoring/raw/heartbeat/ HTTP/1.1" 403 2855
+WARNING 2025-05-17 11:50:24,105 log 22488 15900 Forbidden (CSRF cookie not set.): /monitoring/raw/heartbeat/
+WARNING 2025-05-17 11:50:24,106 basehttp 22488 15900 "POST /monitoring/raw/heartbeat/ HTTP/1.1" 403 2855
+WARNING 2025-05-17 11:50:24,324 log 22488 19176 Forbidden (CSRF cookie not set.): /monitoring/raw/heartbeat/
+WARNING 2025-05-17 11:50:24,326 basehttp 22488 19176 "POST /monitoring/raw/heartbeat/ HTTP/1.1" 403 2855
+WARNING 2025-05-17 11:50:26,362 log 22488 15992 Forbidden (CSRF cookie not set.): /monitoring/raw/heartbeat/
+WARNING 2025-05-17 11:50:26,363 basehttp 22488 15992 "POST /monitoring/raw/heartbeat/ HTTP/1.1" 403 2855
+WARNING 2025-05-17 11:50:27,484 log 22488 18876 Forbidden (CSRF cookie not set.): /monitoring/raw/heartbeat/
+WARNING 2025-05-17 11:50:27,485 basehttp 22488 18876 "POST /monitoring/raw/heartbeat/ HTTP/1.1" 403 2855
+WARNING 2025-05-17 11:50:39,309 log 22488 2064 Forbidden (CSRF cookie not set.): /monitoring/raw/heartbeat/
+WARNING 2025-05-17 11:50:39,310 basehttp 22488 2064 "POST /monitoring/raw/heartbeat/ HTTP/1.1" 403 2855
+WARNING 2025-05-17 11:50:39,712 log 22488 19600 Forbidden (CSRF cookie not set.): /monitoring/raw/heartbeat/
+WARNING 2025-05-17 11:50:39,713 basehttp 22488 19600 "POST /monitoring/raw/heartbeat/ HTTP/1.1" 403 2855
+WARNING 2025-05-17 11:50:41,313 log 22488 18308 Forbidden (CSRF cookie not set.): /monitoring/raw/heartbeat/
+WARNING 2025-05-17 11:50:41,313 basehttp 22488 18308 "POST /monitoring/raw/heartbeat/ HTTP/1.1" 403 2855
+WARNING 2025-05-17 11:50:43,928 log 22488 17196 Forbidden (CSRF cookie not set.): /monitoring/raw/heartbeat/
+WARNING 2025-05-17 11:50:43,930 basehttp 22488 17196 "POST /monitoring/raw/heartbeat/ HTTP/1.1" 403 2855
+WARNING 2025-05-17 11:50:44,336 log 22488 6524 Forbidden (CSRF cookie not set.): /monitoring/raw/heartbeat/
+WARNING 2025-05-17 11:50:44,337 basehttp 22488 6524 "POST /monitoring/raw/heartbeat/ HTTP/1.1" 403 2855
+WARNING 2025-05-17 11:50:56,287 log 22488 16048 Forbidden (CSRF cookie not set.): /monitoring/raw/heartbeat/
+WARNING 2025-05-17 11:50:56,289 basehttp 22488 16048 "POST /monitoring/raw/heartbeat/ HTTP/1.1" 403 2855
+WARNING 2025-05-17 11:50:57,147 log 22488 15184 Forbidden (CSRF cookie not set.): /monitoring/raw/heartbeat/
+WARNING 2025-05-17 11:50:57,148 basehttp 22488 15184 "POST /monitoring/raw/heartbeat/ HTTP/1.1" 403 2855
+WARNING 2025-05-17 11:50:59,438 log 22488 21292 Forbidden (CSRF cookie not set.): /monitoring/raw/heartbeat/
+WARNING 2025-05-17 11:50:59,439 basehttp 22488 21292 "POST /monitoring/raw/heartbeat/ HTTP/1.1" 403 2855
+WARNING 2025-05-17 11:50:59,917 log 22488 19856 Forbidden (CSRF cookie not set.): /monitoring/raw/heartbeat/
+WARNING 2025-05-17 11:50:59,918 basehttp 22488 19856 "POST /monitoring/raw/heartbeat/ HTTP/1.1" 403 2855
+WARNING 2025-05-17 11:51:00,706 log 22488 17468 Forbidden (CSRF cookie not set.): /monitoring/raw/heartbeat/
+WARNING 2025-05-17 11:51:00,707 basehttp 22488 17468 "POST /monitoring/raw/heartbeat/ HTTP/1.1" 403 2855
+INFO 2025-05-17 11:58:11,678 autoreload 27328 21956 Watching for file changes with StatReloader
+WARNING 2025-05-17 11:58:15,828 log 27328 7404 Not Found: /monitoring/simple/heartbeat/
+WARNING 2025-05-17 11:58:15,828 basehttp 27328 7404 "POST /monitoring/simple/heartbeat/ HTTP/1.1" 404 4158
+WARNING 2025-05-17 11:58:27,866 log 27328 13544 Not Found: /monitoring/simple/heartbeat/
+WARNING 2025-05-17 11:58:27,867 basehttp 27328 13544 "POST /monitoring/simple/heartbeat/ HTTP/1.1" 404 4158
+WARNING 2025-05-17 11:58:38,925 log 27328 16128 Not Found: /monitoring/simple/heartbeat/
+WARNING 2025-05-17 11:58:38,926 basehttp 27328 16128 "POST /monitoring/simple/heartbeat/ HTTP/1.1" 404 4158
+WARNING 2025-05-17 11:58:54,805 log 27328 15804 Not Found: /monitoring/raw/heartbeat/
+WARNING 2025-05-17 11:58:54,806 basehttp 27328 15804 "POST /monitoring/raw/heartbeat/ HTTP/1.1" 404 4146
+WARNING 2025-05-17 11:59:06,013 log 27328 27308 Not Found: /monitoring/raw/heartbeat/
+WARNING 2025-05-17 11:59:06,015 basehttp 27328 27308 "POST /monitoring/raw/heartbeat/ HTTP/1.1" 404 4146
+WARNING 2025-05-17 11:59:18,606 log 27328 15924 Not Found: /monitoring/raw/heartbeat/
+WARNING 2025-05-17 11:59:18,607 basehttp 27328 15924 "POST /monitoring/raw/heartbeat/ HTTP/1.1" 404 4146
+WARNING 2025-05-17 11:59:29,751 log 27328 25188 Not Found: /monitoring/raw/heartbeat/
+WARNING 2025-05-17 11:59:29,751 basehttp 27328 25188 "POST /monitoring/raw/heartbeat/ HTTP/1.1" 404 4146
+WARNING 2025-05-17 11:59:42,813 log 27328 19956 Not Found: /monitoring/raw/heartbeat/
+WARNING 2025-05-17 11:59:42,814 basehttp 27328 19956 "POST /monitoring/raw/heartbeat/ HTTP/1.1" 404 4146
+WARNING 2025-05-17 11:59:54,510 log 27328 9452 Not Found: /monitoring/raw/heartbeat/
+WARNING 2025-05-17 11:59:54,511 basehttp 27328 9452 "POST /monitoring/raw/heartbeat/ HTTP/1.1" 404 4146
+WARNING 2025-05-17 12:00:05,678 log 27328 660 Not Found: /monitoring/raw/heartbeat/
+WARNING 2025-05-17 12:00:05,679 basehttp 27328 660 "POST /monitoring/raw/heartbeat/ HTTP/1.1" 404 4146
+WARNING 2025-05-17 12:00:16,867 log 27328 10764 Not Found: /monitoring/raw/heartbeat/
+WARNING 2025-05-17 12:00:16,868 basehttp 27328 10764 "POST /monitoring/raw/heartbeat/ HTTP/1.1" 404 4146
+WARNING 2025-05-17 12:00:29,239 log 27328 21372 Not Found: /monitoring/raw/heartbeat/
+WARNING 2025-05-17 12:00:29,240 basehttp 27328 21372 "POST /monitoring/raw/heartbeat/ HTTP/1.1" 404 4146
+WARNING 2025-05-17 12:00:42,252 log 27328 3012 Not Found: /monitoring/raw/heartbeat/
+WARNING 2025-05-17 12:00:42,253 basehttp 27328 3012 "POST /monitoring/raw/heartbeat/ HTTP/1.1" 404 4146
+WARNING 2025-05-17 12:00:54,428 log 27328 18508 Not Found: /monitoring/raw/heartbeat/
+WARNING 2025-05-17 12:00:54,429 basehttp 27328 18508 "POST /monitoring/raw/heartbeat/ HTTP/1.1" 404 4146
+WARNING 2025-05-17 12:01:06,796 log 27328 7040 Not Found: /monitoring/raw/heartbeat/
+WARNING 2025-05-17 12:01:06,797 basehttp 27328 7040 "POST /monitoring/raw/heartbeat/ HTTP/1.1" 404 4146
+WARNING 2025-05-17 12:01:19,661 log 27328 17544 Not Found: /monitoring/raw/heartbeat/
+WARNING 2025-05-17 12:01:19,662 basehttp 27328 17544 "POST /monitoring/raw/heartbeat/ HTTP/1.1" 404 4146
+WARNING 2025-05-17 12:01:30,937 log 27328 12756 Not Found: /monitoring/raw/heartbeat/
+WARNING 2025-05-17 12:01:30,939 basehttp 27328 12756 "POST /monitoring/raw/heartbeat/ HTTP/1.1" 404 4146
+WARNING 2025-05-17 12:01:43,068 log 27328 27392 Not Found: /monitoring/raw/heartbeat/
+WARNING 2025-05-17 12:01:43,069 basehttp 27328 27392 "POST /monitoring/raw/heartbeat/ HTTP/1.1" 404 4146
+WARNING 2025-05-17 12:01:55,653 log 27328 20812 Not Found: /monitoring/raw/heartbeat/
+WARNING 2025-05-17 12:01:55,654 basehttp 27328 20812 "POST /monitoring/raw/heartbeat/ HTTP/1.1" 404 4146
+WARNING 2025-05-17 12:02:08,179 log 27328 18980 Not Found: /monitoring/raw/heartbeat/
+WARNING 2025-05-17 12:02:08,181 basehttp 27328 18980 "POST /monitoring/raw/heartbeat/ HTTP/1.1" 404 4146
+WARNING 2025-05-17 12:02:19,248 log 27328 7904 Not Found: /monitoring/raw/heartbeat/
+WARNING 2025-05-17 12:02:19,249 basehttp 27328 7904 "POST /monitoring/raw/heartbeat/ HTTP/1.1" 404 4146
+WARNING 2025-05-17 12:02:30,475 log 27328 11608 Not Found: /monitoring/raw/heartbeat/
+WARNING 2025-05-17 12:02:30,476 basehttp 27328 11608 "POST /monitoring/raw/heartbeat/ HTTP/1.1" 404 4146
+WARNING 2025-05-17 12:02:41,999 log 27328 21372 Not Found: /monitoring/raw/heartbeat/
+WARNING 2025-05-17 12:02:42,000 basehttp 27328 21372 "POST /monitoring/raw/heartbeat/ HTTP/1.1" 404 4146
+WARNING 2025-05-17 12:02:53,620 log 27328 17464 Not Found: /monitoring/raw/heartbeat/
+WARNING 2025-05-17 12:02:53,621 basehttp 27328 17464 "POST /monitoring/raw/heartbeat/ HTTP/1.1" 404 4146
+WARNING 2025-05-17 12:03:05,420 log 27328 3168 Not Found: /monitoring/raw/heartbeat/
+WARNING 2025-05-17 12:03:05,423 basehttp 27328 3168 "POST /monitoring/raw/heartbeat/ HTTP/1.1" 404 4146
+WARNING 2025-05-17 12:03:17,910 log 27328 5560 Not Found: /monitoring/raw/heartbeat/
+WARNING 2025-05-17 12:03:17,911 basehttp 27328 5560 "POST /monitoring/raw/heartbeat/ HTTP/1.1" 404 4146
+WARNING 2025-05-17 12:03:30,645 log 27328 15052 Not Found: /monitoring/raw/heartbeat/
+WARNING 2025-05-17 12:03:30,647 basehttp 27328 15052 "POST /monitoring/raw/heartbeat/ HTTP/1.1" 404 4146
+WARNING 2025-05-17 12:03:42,204 log 27328 23520 Not Found: /monitoring/raw/heartbeat/
+WARNING 2025-05-17 12:03:42,205 basehttp 27328 23520 "POST /monitoring/raw/heartbeat/ HTTP/1.1" 404 4146
+WARNING 2025-05-17 12:03:54,798 log 27328 18476 Not Found: /monitoring/raw/heartbeat/
+WARNING 2025-05-17 12:03:54,799 basehttp 27328 18476 "POST /monitoring/raw/heartbeat/ HTTP/1.1" 404 4146
+WARNING 2025-05-17 12:04:07,584 log 27328 14952 Not Found: /monitoring/raw/heartbeat/
+WARNING 2025-05-17 12:04:07,586 basehttp 27328 14952 "POST /monitoring/raw/heartbeat/ HTTP/1.1" 404 4146
+WARNING 2025-05-17 12:04:20,054 log 27328 22792 Not Found: /monitoring/raw/heartbeat/
+WARNING 2025-05-17 12:04:20,055 basehttp 27328 22792 "POST /monitoring/raw/heartbeat/ HTTP/1.1" 404 4146
+WARNING 2025-05-17 12:04:32,815 log 27328 14112 Not Found: /monitoring/raw/heartbeat/
+WARNING 2025-05-17 12:04:32,816 basehttp 27328 14112 "POST /monitoring/raw/heartbeat/ HTTP/1.1" 404 4146
+WARNING 2025-05-17 12:04:44,327 log 27328 17876 Not Found: /monitoring/raw/heartbeat/
+WARNING 2025-05-17 12:04:44,328 basehttp 27328 17876 "POST /monitoring/raw/heartbeat/ HTTP/1.1" 404 4146
+WARNING 2025-05-17 12:04:56,643 log 27328 18104 Not Found: /monitoring/raw/heartbeat/
+WARNING 2025-05-17 12:04:56,644 basehttp 27328 18104 "POST /monitoring/raw/heartbeat/ HTTP/1.1" 404 4146
+WARNING 2025-05-17 12:05:08,844 log 27328 16968 Not Found: /monitoring/raw/heartbeat/
+WARNING 2025-05-17 12:05:08,845 basehttp 27328 16968 "POST /monitoring/raw/heartbeat/ HTTP/1.1" 404 4146
+WARNING 2025-05-17 12:05:21,783 log 27328 25340 Not Found: /monitoring/raw/heartbeat/
+WARNING 2025-05-17 12:05:21,785 basehttp 27328 25340 "POST /monitoring/raw/heartbeat/ HTTP/1.1" 404 4146
+INFO 2025-05-17 12:07:30,763 autoreload 23424 18500 Watching for file changes with StatReloader
+INFO 2025-05-17 12:07:34,626 views 23424 18800 ==================================================
+INFO 2025-05-17 12:07:34,627 views 23424 18800 SIMPLE HEARTBEAT RECIBIDO
+INFO 2025-05-17 12:07:34,627 views 23424 18800 Método: POST
+INFO 2025-05-17 12:07:34,628 views 23424 18800 Headers: {'Content-Length': '228', 'Content-Type': 'application/json', 'Host': 'localhost:8000', 'User-Agent': 'python-requests/2.32.3', 'Accept-Encoding': 'gzip, deflate', 'Accept': 'application/json', 'Connection': 'keep-alive'}
+INFO 2025-05-17 12:07:34,628 views 23424 18800 Body: {"ip_address": "192.168.1.101", "name": "SimNode-1", "metrics": {"cpu": 17.213578910111128, "memory": 75.78982255256815, "disk": 78.64658283819894, "system_info": {"platform": "Darwin", "hostname": "S
+INFO 2025-05-17 12:07:34,628 views 23424 18800 ==================================================
+INFO 2025-05-17 12:07:34,628 basehttp 23424 18800 "POST /monitoring/simple/heartbeat/ HTTP/1.1" 200 110
+INFO 2025-05-17 12:07:47,642 views 23424 21416 ==================================================
+INFO 2025-05-17 12:07:47,643 views 23424 21416 SIMPLE HEARTBEAT RECIBIDO
+INFO 2025-05-17 12:07:47,643 views 23424 21416 Método: POST
+INFO 2025-05-17 12:07:47,644 views 23424 21416 Headers: {'Content-Length': '227', 'Content-Type': 'application/json', 'Host': 'localhost:8000', 'User-Agent': 'python-requests/2.32.3', 'Accept-Encoding': 'gzip, deflate', 'Accept': 'application/json', 'Connection': 'keep-alive'}
+INFO 2025-05-17 12:07:47,645 views 23424 21416 Body: {"ip_address": "192.168.1.101", "name": "SimNode-1", "metrics": {"cpu": 36.64933698127692, "memory": 72.00602456590818, "disk": 24.81094591641355, "system_info": {"platform": "Darwin", "hostname": "Si
+INFO 2025-05-17 12:07:47,646 views 23424 21416 ==================================================
+INFO 2025-05-17 12:07:47,648 basehttp 23424 21416 "POST /monitoring/simple/heartbeat/ HTTP/1.1" 200 110
+INFO 2025-05-17 12:07:58,997 views 23424 12808 ==================================================
+INFO 2025-05-17 12:07:58,997 views 23424 12808 SIMPLE HEARTBEAT RECIBIDO
+INFO 2025-05-17 12:07:58,997 views 23424 12808 Método: POST
+INFO 2025-05-17 12:07:58,997 views 23424 12808 Headers: {'Content-Length': '230', 'Content-Type': 'application/json', 'Host': 'localhost:8000', 'User-Agent': 'python-requests/2.32.3', 'Accept-Encoding': 'gzip, deflate', 'Accept': 'application/json', 'Connection': 'keep-alive'}
+INFO 2025-05-17 12:07:58,998 views 23424 12808 Body: {"ip_address": "192.168.1.101", "name": "SimNode-1", "metrics": {"cpu": 0.4042437942649024, "memory": 23.029740201654278, "disk": 49.29423191944668, "system_info": {"platform": "Windows", "hostname": 
+INFO 2025-05-17 12:07:58,998 views 23424 12808 ==================================================
+INFO 2025-05-17 12:07:58,998 basehttp 23424 12808 "POST /monitoring/simple/heartbeat/ HTTP/1.1" 200 110
+INFO 2025-05-17 12:08:10,915 views 23424 16420 ==================================================
+INFO 2025-05-17 12:08:10,916 views 23424 16420 SIMPLE HEARTBEAT RECIBIDO
+INFO 2025-05-17 12:08:10,916 views 23424 16420 Método: POST
+INFO 2025-05-17 12:08:10,916 views 23424 16420 Headers: {'Content-Length': '229', 'Content-Type': 'application/json', 'Host': 'localhost:8000', 'User-Agent': 'python-requests/2.32.3', 'Accept-Encoding': 'gzip, deflate', 'Accept': 'application/json', 'Connection': 'keep-alive'}
+INFO 2025-05-17 12:08:10,916 views 23424 16420 Body: {"ip_address": "192.168.1.101", "name": "SimNode-1", "metrics": {"cpu": 23.574910644830595, "memory": 46.67003254878425, "disk": 81.06472108562924, "system_info": {"platform": "Windows", "hostname": "
+INFO 2025-05-17 12:08:10,916 views 23424 16420 ==================================================
+INFO 2025-05-17 12:08:10,917 basehttp 23424 16420 "POST /monitoring/simple/heartbeat/ HTTP/1.1" 200 110
+INFO 2025-05-17 12:08:22,001 views 23424 5784 ==================================================
+INFO 2025-05-17 12:08:22,002 views 23424 5784 SIMPLE HEARTBEAT RECIBIDO
+INFO 2025-05-17 12:08:22,002 views 23424 5784 Método: POST
+INFO 2025-05-17 12:08:22,003 views 23424 5784 Headers: {'Content-Length': '228', 'Content-Type': 'application/json', 'Host': 'localhost:8000', 'User-Agent': 'python-requests/2.32.3', 'Accept-Encoding': 'gzip, deflate', 'Accept': 'application/json', 'Connection': 'keep-alive'}
+INFO 2025-05-17 12:08:22,003 views 23424 5784 Body: {"ip_address": "192.168.1.101", "name": "SimNode-1", "metrics": {"cpu": 63.58937576243269, "memory": 29.693418546581867, "disk": 21.7602645783702, "system_info": {"platform": "Windows", "hostname": "S
+INFO 2025-05-17 12:08:22,003 views 23424 5784 ==================================================
+INFO 2025-05-17 12:08:22,005 basehttp 23424 5784 "POST /monitoring/simple/heartbeat/ HTTP/1.1" 200 110
+INFO 2025-05-17 12:08:34,158 views 23424 19944 ==================================================
+INFO 2025-05-17 12:08:34,158 views 23424 19944 SIMPLE HEARTBEAT RECIBIDO
+INFO 2025-05-17 12:08:34,159 views 23424 19944 Método: POST
+INFO 2025-05-17 12:08:34,159 views 23424 19944 Headers: {'Content-Length': '227', 'Content-Type': 'application/json', 'Host': 'localhost:8000', 'User-Agent': 'python-requests/2.32.3', 'Accept-Encoding': 'gzip, deflate', 'Accept': 'application/json', 'Connection': 'keep-alive'}
+INFO 2025-05-17 12:08:34,159 views 23424 19944 Body: {"ip_address": "192.168.1.101", "name": "SimNode-1", "metrics": {"cpu": 97.62019584876091, "memory": 43.186588699860465, "disk": 23.44714944586717, "system_info": {"platform": "Linux", "hostname": "Si
+INFO 2025-05-17 12:08:34,159 views 23424 19944 ==================================================
+INFO 2025-05-17 12:08:34,159 basehttp 23424 19944 "POST /monitoring/simple/heartbeat/ HTTP/1.1" 200 110
+INFO 2025-05-17 12:08:46,100 views 23424 13676 ==================================================
+INFO 2025-05-17 12:08:46,100 views 23424 13676 SIMPLE HEARTBEAT RECIBIDO
+INFO 2025-05-17 12:08:46,101 views 23424 13676 Método: POST
+INFO 2025-05-17 12:08:46,101 views 23424 13676 Headers: {'Content-Length': '227', 'Content-Type': 'application/json', 'Host': 'localhost:8000', 'User-Agent': 'python-requests/2.32.3', 'Accept-Encoding': 'gzip, deflate', 'Accept': 'application/json', 'Connection': 'keep-alive'}
+INFO 2025-05-17 12:08:46,101 views 23424 13676 Body: {"ip_address": "192.168.1.101", "name": "SimNode-1", "metrics": {"cpu": 65.65401939454712, "memory": 74.13252285528074, "disk": 85.2313373077639, "system_info": {"platform": "Windows", "hostname": "Si
+INFO 2025-05-17 12:08:46,101 views 23424 13676 ==================================================
+INFO 2025-05-17 12:08:46,102 basehttp 23424 13676 "POST /monitoring/simple/heartbeat/ HTTP/1.1" 200 110
+INFO 2025-05-17 12:08:58,150 views 23424 13628 ==================================================
+INFO 2025-05-17 12:08:58,151 views 23424 13628 SIMPLE HEARTBEAT RECIBIDO
+INFO 2025-05-17 12:08:58,151 views 23424 13628 Método: POST
+INFO 2025-05-17 12:08:58,152 views 23424 13628 Headers: {'Content-Length': '229', 'Content-Type': 'application/json', 'Host': 'localhost:8000', 'User-Agent': 'python-requests/2.32.3', 'Accept-Encoding': 'gzip, deflate', 'Accept': 'application/json', 'Connection': 'keep-alive'}
+INFO 2025-05-17 12:08:58,152 views 23424 13628 Body: {"ip_address": "192.168.1.101", "name": "SimNode-1", "metrics": {"cpu": 39.725537214661934, "memory": 84.34803601768392, "disk": 68.54452560454169, "system_info": {"platform": "Windows", "hostname": "
+INFO 2025-05-17 12:08:58,152 views 23424 13628 ==================================================
+INFO 2025-05-17 12:08:58,154 basehttp 23424 13628 "POST /monitoring/simple/heartbeat/ HTTP/1.1" 200 110
+INFO 2025-05-17 12:09:10,663 views 23424 27480 ==================================================
+INFO 2025-05-17 12:09:10,664 views 23424 27480 SIMPLE HEARTBEAT RECIBIDO
+INFO 2025-05-17 12:09:10,665 views 23424 27480 Método: POST
+INFO 2025-05-17 12:09:10,665 views 23424 27480 Headers: {'Content-Length': '227', 'Content-Type': 'application/json', 'Host': 'localhost:8000', 'User-Agent': 'python-requests/2.32.3', 'Accept-Encoding': 'gzip, deflate', 'Accept': 'application/json', 'Connection': 'keep-alive'}
+INFO 2025-05-17 12:09:10,665 views 23424 27480 Body: {"ip_address": "192.168.1.101", "name": "SimNode-1", "metrics": {"cpu": 4.322444807496839, "memory": 44.54692626208899, "disk": 86.85358315763577, "system_info": {"platform": "Darwin", "hostname": "Si
+INFO 2025-05-17 12:09:10,665 views 23424 27480 ==================================================
+INFO 2025-05-17 12:09:10,666 basehttp 23424 27480 "POST /monitoring/simple/heartbeat/ HTTP/1.1" 200 110
+INFO 2025-05-17 12:09:21,929 views 23424 23084 ==================================================
+INFO 2025-05-17 12:09:21,930 views 23424 23084 SIMPLE HEARTBEAT RECIBIDO
+INFO 2025-05-17 12:09:21,930 views 23424 23084 Método: POST
+INFO 2025-05-17 12:09:21,930 views 23424 23084 Headers: {'Content-Length': '229', 'Content-Type': 'application/json', 'Host': 'localhost:8000', 'User-Agent': 'python-requests/2.32.3', 'Accept-Encoding': 'gzip, deflate', 'Accept': 'application/json', 'Connection': 'keep-alive'}
+INFO 2025-05-17 12:09:21,930 views 23424 23084 Body: {"ip_address": "192.168.1.101", "name": "SimNode-1", "metrics": {"cpu": 18.731791045716694, "memory": 34.05621685074756, "disk": 62.232898428194304, "system_info": {"platform": "Darwin", "hostname": "
+INFO 2025-05-17 12:09:21,930 views 23424 23084 ==================================================
+INFO 2025-05-17 12:09:21,931 basehttp 23424 23084 "POST /monitoring/simple/heartbeat/ HTTP/1.1" 200 110
+INFO 2025-05-17 12:09:34,810 views 23424 22952 ==================================================
+INFO 2025-05-17 12:09:34,811 views 23424 22952 SIMPLE HEARTBEAT RECIBIDO
+INFO 2025-05-17 12:09:34,811 views 23424 22952 Método: POST
+INFO 2025-05-17 12:09:34,811 views 23424 22952 Headers: {'Content-Length': '227', 'Content-Type': 'application/json', 'Host': 'localhost:8000', 'User-Agent': 'python-requests/2.32.3', 'Accept-Encoding': 'gzip, deflate', 'Accept': 'application/json', 'Connection': 'keep-alive'}
+INFO 2025-05-17 12:09:34,812 views 23424 22952 Body: {"ip_address": "192.168.1.101", "name": "SimNode-1", "metrics": {"cpu": 79.25564707306452, "memory": 68.07722117045631, "disk": 14.602676524421545, "system_info": {"platform": "Darwin", "hostname": "S
+INFO 2025-05-17 12:09:34,812 views 23424 22952 ==================================================
+INFO 2025-05-17 12:09:34,814 basehttp 23424 22952 "POST /monitoring/simple/heartbeat/ HTTP/1.1" 200 110
+INFO 2025-05-17 12:09:46,713 views 23424 2392 ==================================================
+INFO 2025-05-17 12:09:46,714 views 23424 2392 SIMPLE HEARTBEAT RECIBIDO
+INFO 2025-05-17 12:09:46,714 views 23424 2392 Método: POST
+INFO 2025-05-17 12:09:46,714 views 23424 2392 Headers: {'Content-Length': '226', 'Content-Type': 'application/json', 'Host': 'localhost:8000', 'User-Agent': 'python-requests/2.32.3', 'Accept-Encoding': 'gzip, deflate', 'Accept': 'application/json', 'Connection': 'keep-alive'}
+INFO 2025-05-17 12:09:46,714 views 23424 2392 Body: {"ip_address": "192.168.1.101", "name": "SimNode-1", "metrics": {"cpu": 92.32746622477737, "memory": 36.66646455347642, "disk": 54.86829007915544, "system_info": {"platform": "Linux", "hostname": "Sim
+INFO 2025-05-17 12:09:46,714 views 23424 2392 ==================================================
+INFO 2025-05-17 12:09:46,715 basehttp 23424 2392 "POST /monitoring/simple/heartbeat/ HTTP/1.1" 200 110
+INFO 2025-05-17 12:09:58,897 views 23424 23360 ==================================================
+INFO 2025-05-17 12:09:58,897 views 23424 23360 SIMPLE HEARTBEAT RECIBIDO
+INFO 2025-05-17 12:09:58,897 views 23424 23360 Método: POST
+INFO 2025-05-17 12:09:58,898 views 23424 23360 Headers: {'Content-Length': '227', 'Content-Type': 'application/json', 'Host': 'localhost:8000', 'User-Agent': 'python-requests/2.32.3', 'Accept-Encoding': 'gzip, deflate', 'Accept': 'application/json', 'Connection': 'keep-alive'}
+INFO 2025-05-17 12:09:58,898 views 23424 23360 Body: {"ip_address": "192.168.1.101", "name": "SimNode-1", "metrics": {"cpu": 64.16084185884833, "memory": 22.973019315839636, "disk": 53.72671748342155, "system_info": {"platform": "Linux", "hostname": "Si
+INFO 2025-05-17 12:09:58,899 views 23424 23360 ==================================================
+INFO 2025-05-17 12:09:58,900 basehttp 23424 23360 "POST /monitoring/simple/heartbeat/ HTTP/1.1" 200 110
+INFO 2025-05-17 12:10:10,266 views 23424 7944 ==================================================
+INFO 2025-05-17 12:10:10,266 views 23424 7944 SIMPLE HEARTBEAT RECIBIDO
+INFO 2025-05-17 12:10:10,266 views 23424 7944 Método: POST
+INFO 2025-05-17 12:10:10,267 views 23424 7944 Headers: {'Content-Length': '226', 'Content-Type': 'application/json', 'Host': 'localhost:8000', 'User-Agent': 'python-requests/2.32.3', 'Accept-Encoding': 'gzip, deflate', 'Accept': 'application/json', 'Connection': 'keep-alive'}
+INFO 2025-05-17 12:10:10,267 views 23424 7944 Body: {"ip_address": "192.168.1.101", "name": "SimNode-1", "metrics": {"cpu": 87.705720589303, "memory": 63.81238027905372, "disk": 18.57622441674171, "system_info": {"platform": "Windows", "hostname": "Sim
+INFO 2025-05-17 12:10:10,267 views 23424 7944 ==================================================
+INFO 2025-05-17 12:10:10,269 basehttp 23424 7944 "POST /monitoring/simple/heartbeat/ HTTP/1.1" 200 110
