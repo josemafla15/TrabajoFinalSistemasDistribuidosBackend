@@ -10,7 +10,7 @@ SECRET_KEY = 'django-insecure-cqg&&gl+!yt7mdytm1_f9d$fr&2h&xz_mrd%n)zr!2vqzeke#-
 
 DEBUG = True
 
-ALLOWED_HOSTS = []  # Agregar los hosts permitidos en producción
+ALLOWED_HOSTS = ['*']  # Permite conexiones desde cualquier host
 
 INSTALLED_APPS = [
     'django.contrib.admin',
